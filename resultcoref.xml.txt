@@ -1,0 +1,3 @@
+1, 8, Ketua\NN Komisi\NN DPR,\NN, ia\PRP
+2, 18, Teuku\NNP Riefky\NNP Harsya\NNP, Riefky,\NNP
+18, 22, Riefky,\NNP, dia,\PRP

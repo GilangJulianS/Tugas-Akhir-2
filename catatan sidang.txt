@@ -1,0 +1,28 @@
+v Perlu dilakukan pengujian tambahan untuk baseline (bukan gabungan)
+v Lengkapi contoh untuk terminologi yang tidak jelas di batasan masalah
+v Harus ada argumentasi dari pemilihan fitur dalam pengujian
+v Hasil pengujian dengan pruning harus ditunjukkan atau diganti dengan ID3, algoritma baseline juga harus jelas
+v Batasan masalah harus diperjelas, pronoun-pronoun, proper name-proper name, proper name-pronoun
+v Jenis2 coreference resolution harus dijelaskan di latar belakang
+v Perbaiki rumus di halaman 11
+v Sebaiknya diambil yang terbaik adalah yg 19 fitur
+v Kata "sehingga" tidak boleh di awal kalimat
+- Tambah diagram proses coreference resolution dengan contohnya -> perbaiki gambar III.3 dan III.4
+	contohnya kaya gimana
+v Perjelas kasus-kasus yang tidak berhasil ditangani di analisis hasil eksperimen
+	kasus diperjelas pada bagian batasan masalah
+v Pohon hasil pembelajaran harus dilampirkan
+- Contoh pengenalan
+	contoh kaya gimana
+	contoh input output dengan berbagai tipe coreference (yg bisa sekaligus ga bisa ditangani)
+v Perbaiki halaman 21-22
+
+
+
+Buat poster:
+	bab 1, 3, 4, 5
+Buat paper:
+	- bab 1
+	- bab 2 harus lengkap
+	- bab 3
+	- bab 4	

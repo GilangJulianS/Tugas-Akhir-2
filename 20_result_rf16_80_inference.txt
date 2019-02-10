@@ -1,0 +1,39 @@
+1918, 1931, PT\NNP Exedy\NNP Indonesia\NNP, PT\NNP Exedy\NNP Indonesia\NNP
+1933, 1934, Sekretaris\NNP Perusahaan\NNP Astra\NNP Otoparts,\NNP, Kartina\NNP Rahayu\NNP
+2252, 2253, Deputi\NNP Gubernur\NNP, Bank\NNP Indonesia\NNP
+2253, 2254, Bank\NNP Indonesia\NNP, BI,\NNP
+2255, 2270, Hartadi\NNP A\NNP Sarwono\NNP, Hartadi\NNP
+2266, 2270, Hartadi\NNP, Hartadi\NNP
+2266, 2286, Hartadi\NNP, Hartadi\NNP
+2270, 2286, Hartadi\NNP, Hartadi\NNP
+2311, 2316, Dirjend\NNP Industri\NNP Logam\NNP Mesin\NNP Tekstil\NNP Departemen\NNP Perindustrian\NNP Ansari\NNP Bukhari\NNP, Ansari\NNP
+2311, 2323, Dirjend\NNP Industri\NNP Logam\NNP Mesin\NNP Tekstil\NNP Departemen\NNP Perindustrian\NNP Ansari\NNP Bukhari\NNP, Ansari\NNP
+2316, 2323, Ansari\NNP, Ansari\NNP
+2330, 2337, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Sri\NNP Mulyani\NNP
+2330, 2367, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Mulyani\NNP
+2339, 2368, Indonesia\NNP Investor\NNP Forum\NNP, Indonesia\NNP Investor\NNP Forum\NNP
+2367, 2375, Mulyani\NNP, Mulyani.\NNP
+2378, 2393, AALI\NNP, Direktur\NNP AALI,\NNP
+2426, 2436, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2426, 2450, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2436, 2450, Miranda\NNP, Miranda\NNP
+2450, 2470, Miranda\NNP, Miranda\NNP S.\NNP Goeltom\NNP
+2450, 2480, Miranda\NNP, Miranda\NNP
+2455, 2471, Pertumbuhan\NN ekonomi\NN Indonesia\NNP, pertumbuhan\NN ekonomi\NN Indonesia\NNP
+2470, 2480, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2471, 2495, pertumbuhan\NN ekonomi\NN Indonesia\NNP, pertumbuhan\NN ekonomi\NN Indonesia\NNP
+2524, 2525, Direktur\NNP Teknologi\NNP dan\NNP Operasional\NNP Bank\NNP Mandiri,\NNP, Sasmita\NNP
+2530, 2546, Bank\NNP Mandiri\NNP, Bank\NNP Mandiri\NNP
+2651, 2652, Pemeringkat\NNP Efek\NNP Indonesia\NNP, Pefindo\NNP
+2655, 2677, TRJE\NNP, TRJE\NNP
+2655, 2693, TRJE\NNP, TRJE\NNP
+2693, 2697, TRJE\NNP, TRJE\NNP
+2718, 2725, ADB\NNP, ADB\NNP
+2725, 2760, ADB\NNP, ADB\NNP
+2733, 2734, Direktur\NNP Pendanaan\NNP Luar\NNP Negeri\NNP Multilateral\NNP Bappenas,\NNP, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP
+2742, 2744, PLTA\NNP Poigar\NNP, nya,\PRP
+2742, 2752, PLTA\NNP Poigar\NNP, nya\PRP
+2779, 2785, Ketua\NN Bapepam\NNP -\NNP LK\NNP, ketentuan\NN Bapepam.\NNP
+2851, 2857, DPR\NNP, DPR\NNP
+2857, 2866, DPR\NNP, DPR\NNP
+2881, 2882, nya.\PRP, Ia\PRP

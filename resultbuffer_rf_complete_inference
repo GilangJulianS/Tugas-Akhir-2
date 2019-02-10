@@ -1,0 +1,123 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     coreference-weka.filters.unsupervised.attribute.StringToNominal-R17-19-weka.filters.unsupervised.attribute.MergeInfrequentNominalValues-N1000-R17-19-S-weka.filters.unsupervised.attribute.MergeManyValues-C17-Lnull-R1,2-weka.filters.unsupervised.attribute.MergeManyValues-C19-Lnull-R1,2-weka.filters.unsupervised.attribute.MergeManyValues-C18-Lnull-R1,4
+Instances:    917213
+Attributes:   20
+              exact_match
+              exact_word_match
+              substring_match
+              entityType_1
+              entityType_2
+              isPronoun_1
+              isPronoun_2
+              isProperName_1
+              isProperName_2
+              distance
+              isApositive
+              isFirstPerson_1
+              isFirstPerson_2
+              isQuotation_1
+              isQuotation_2
+              isNearestCandidate
+              prevWord_1_merged_infrequent_values
+              nextWord_1_merged_infrequent_values
+              prevWord_2_merged_infrequent_values
+              corefer
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 103.86 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances      915135               99.7734 %
+Incorrectly Classified Instances      2078                0.2266 %
+Kappa statistic                          0.8715
+Mean absolute error                      0.0033
+Root mean squared error                  0.039 
+Relative absolute error                 18.1399 %
+Root relative squared error             40.6562 %
+Total Number of Instances           917213     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.999    0.163    0.998      0.999    0.999      0.872    0.998     1.000     NO
+                 0.837    0.001    0.912      0.837    0.873      0.872    0.998     0.959     YES
+Weighted Avg.    0.998    0.162    0.998      0.998    0.998      0.872    0.998     1.000     
+
+=== Confusion Matrix ===
+
+      a      b   <-- classified as
+ 908013    688 |      a = NO
+   1390   7122 |      b = YES
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     coreference-weka.filters.unsupervised.attribute.StringToNominal-R17-19-weka.filters.unsupervised.attribute.MergeInfrequentNominalValues-N1000-R17-19-S-weka.filters.unsupervised.attribute.MergeManyValues-C17-Lnull-R1,2-weka.filters.unsupervised.attribute.MergeManyValues-C18-Lnull-R1,4-weka.filters.unsupervised.attribute.MergeManyValues-C19-Lnull-R1,2
+Instances:     unknown (yet). Reading incrementally
+Attributes:   20
+
+=== Summary ===
+
+Correctly Classified Instances      913387               99.5829 %
+Incorrectly Classified Instances      3826                0.4171 %
+Kappa statistic                          0.6986
+Mean absolute error                      0.005 
+Root mean squared error                  0.0604
+Total Number of Instances           917213     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.996    0.098    0.999      0.996    0.998      0.717    0.998     1.000     NO
+                 0.902    0.004    0.573      0.902    0.701      0.717    0.998     0.664     YES
+Weighted Avg.    0.996    0.098    0.997      0.996    0.996      0.717    0.998     0.998     
+
+=== Confusion Matrix ===
+
+      a      b   <-- classified as
+ 908911   3339 |      a = NO
+    487   4476 |      b = YES
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     coreference-weka.filters.unsupervised.attribute.StringToNominal-R17-19-weka.filters.unsupervised.attribute.MergeInfrequentNominalValues-N1000-R17-19-S-weka.filters.unsupervised.attribute.MergeManyValues-C17-Lnull-R1,2-weka.filters.unsupervised.attribute.MergeManyValues-C19-Lnull-R1,2-weka.filters.unsupervised.attribute.MergeManyValues-C18-Lnull-R1,4
+Instances:     unknown (yet). Reading incrementally
+Attributes:   20
+
+=== Summary ===
+
+Correctly Classified Instances      915640               99.8285 %
+Incorrectly Classified Instances      1573                0.1715 %
+Kappa statistic                          0.9028
+Mean absolute error                      0.0026
+Root mean squared error                  0.0344
+Total Number of Instances           917213     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.133    0.999      1.000    0.999      0.904    1.000     1.000     NO
+                 0.867    0.000    0.944      0.867    0.904      0.904    1.000     0.975     YES
+Weighted Avg.    0.998    0.132    0.998      0.998    0.998      0.904    1.000     1.000     
+
+=== Confusion Matrix ===
+
+      a      b   <-- classified as
+ 908263    438 |      a = NO
+   1135   7377 |      b = YES
+

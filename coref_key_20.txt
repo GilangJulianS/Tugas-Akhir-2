@@ -1,0 +1,78 @@
+1916, 1917, PT\NNP Astra\NNP Otoparts\NNP Tbk\NNP, nya\PRP
+1918, 1925, PT\NNP Exedy\NNP Indonesia\NNP, Exedy\NNP Corporation\NNP
+1916, 1927, PT\NNP Astra\NNP Otoparts\NNP Tbk\NNP, Kami\PRP
+1916, 1930, PT\NNP Astra\NNP Otoparts\NNP Tbk\NNP, PT\NNP Astra\NNP Otoparts\NNP
+1925, 1931, Exedy\NNP Corporation\NNP, PT\NNP Exedy\NNP Indonesia\NNP
+1918, 1932, PT\NNP Exedy\NNP Indonesia\NNP, Exedy\NNP Corporation,\NNP
+1933, 1934, Sekretaris\NNP Perusahaan\NNP Astra\NNP Otoparts,\NNP, Kartina\NNP Rahayu\NNP
+1934, 1937, Kartina\NNP Rahayu\NNP, dia,\PRP
+1934, 1940, Kartina\NNP Rahayu\NNP, Dia\PRP
+1934, 1952, Kartina\NNP Rahayu\NNP, nya.\PRP
+1953, 1964, Menkeu\NNP Sri\NNP Mulyani\NNP Indrawati\NNP, Dia\PRP
+2255, 2258, Hartadi\NNP A\NNP Sarwono\NNP, Ia\PRP
+2255, 2266, Hartadi\NNP A\NNP Sarwono\NNP, Hartadi\NNP
+2266, 2270, Hartadi\NNP, Hartadi\NNP
+2270, 2286, Hartadi\NNP, Hartadi\NNP
+2286, 2303, Hartadi\NNP, Ia\PRP
+2311, 2316, Dirjend\NNP Industri\NNP Logam\NNP Mesin\NNP Tekstil\NNP Departemen\NNP Perindustrian\NNP Ansari\NNP Bukhari\NNP, Ansari\NNP
+2316, 2323, Ansari\NNP, Ansari\NNP
+2330, 2337, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Sri\NNP Mulyani\NNP
+2333, 2343, PDB\NN, PDB\NN
+2343, 2347, PDB\NN, PDB\NN
+2337, 2367, Sri\NNP Mulyani\NNP, Mulyani\NNP
+2367, 2375, Mulyani\NNP, Mulyani.\NNP
+2393, 2394, Direktur\NNP AALI,\NNP, Santosa\NNP
+2394, 2399, Santosa\NNP, nya\PRP
+2426, 2436, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2436, 2450, Miranda\NNP, Miranda\NNP
+2450, 2464, Miranda\NNP, nya.\PRP
+2450, 2466, Miranda\NNP, nya,\PRP
+2469, 2470, Deputi\NNP Gubernur\NNP Senior\NNP BI,\NNP, Miranda\NNP S.\NNP Goeltom\NNP
+2470, 2480, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2480, 2488, Miranda\NNP, nya,\PRP
+2510, 2517, Bank\NNP Mandiri\NNP, nya.\PRP
+2510, 2520, Bank\NNP Mandiri\NNP, kami,\PRP
+2524, 2525, Direktur\NNP Teknologi\NNP dan\NNP Operasional\NNP Bank\NNP Mandiri,\NNP, Sasmita\NNP
+2525, 2528, Sasmita\NNP, dia,\PRP
+2510, 2530, Bank\NNP Mandiri\NNP, Bank\NNP Mandiri\NNP
+2525, 2535, Sasmita\NNP, Ia\PRP
+2525, 2545, Sasmita\NNP, nya.\PRP
+2530, 2546, Bank\NNP Mandiri\NNP, Bank\NNP Mandiri\NNP
+2546, 2554, Bank\NNP Mandiri\NNP, nya\PRP
+2565, 2592, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP Indrawati\NNP, nya\PRP
+2603, 2620, Menko\NNP Perekonomian\NNP Boediono\NNP, nya.\PRP
+2603, 2621, Menko\NNP Perekonomian\NNP Boediono\NNP, Boediono,\NNP
+2621, 2630, Boediono,\NNP, nya.\PRP
+2565, 2640, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP Indrawati\NNP, nya,\PRP
+2668, 2669, analis\NNP Pefindo\NNP Ronald\NNP Hertanto,\NNP, nya\PRP
+2668, 2672, analis\NNP Pefindo\NNP Ronald\NNP Hertanto,\NNP, dia,\PRP
+2655, 2677, TRJE\NNP, TRJE\NNP
+2677, 2693, TRJE\NNP, TRJE\NNP
+2693, 2697, TRJE\NNP, TRJE\NNP
+2691, 2703, JEL\NNP, JEL.\NNP
+2718, 2725, ADB\NNP, ADB\NNP
+2733, 2734, Direktur\NNP Pendanaan\NNP Luar\NNP Negeri\NNP Multilateral\NNP Bappenas,\NNP, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP
+2734, 2735, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP, nya\PRP
+2734, 2738, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP, nya,\PRP
+2734, 2744, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP, nya,\PRP
+2734, 2752, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP, nya\PRP
+2725, 2760, ADB\NNP, ADB\NNP
+2734, 2767, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP, Dewo.\NNP
+2776, 2777, Sekretaris\NNP Perusahaan\NNP Bakrie\NNP Sumatera\NNP Plantations\NNP Tbk,\NNP, Fitri\NNP Barnas,\NNP
+2777, 2778, Fitri\NNP Barnas,\NNP, nya\PRP
+2777, 2786, Fitri\NNP Barnas,\NNP, ia\PRP
+2774, 2789, PT\NNP Nibung\NNP Arthamulia\NNP, PT\NNP Nibung\NNP Arthamulia\NNP
+2815, 2834, Dirjen\NNP Bea\NNP dan\NNP Cukai\NNP Departemen\NNP Keuangan\NNP Anwar\NNP Suprijadi\NNP, Anwar\NNP Suprijadi\NNP
+2834, 2837, Anwar\NNP Suprijadi\NNP, Anwar\NNP
+2857, 2866, DPR\NNP, DPR\NNP
+2837, 2869, Anwar\NNP, nya.\PRP
+2837, 2870, Anwar\NNP, dia,\PRP
+2837, 2881, Anwar\NNP, nya.\PRP
+2837, 2882, Anwar\NNP, Ia\PRP
+2888, 2902, Lembaga\NNP pemeringkat\NNP internasional\NNP Fitch\NNP Ratings,\NNP, Fitch\NNP
+2920, 2925, Ai\NNP Ling\NNP Ngiam,\NNP, nya.\PRP
+2942, 2943, Indonesia\NNP, nya\PRP
+2920, 2950, Ai\NNP Ling\NNP Ngiam,\NNP, nya.\PRP
+2920, 2951, Ai\NNP Ling\NNP Ngiam,\NNP, nya,\PRP
+2902, 2956, Fitch\NNP, Fitch\NNP
+2920, 2976, Ai\NNP Ling\NNP Ngiam,\NNP, nya,\PRP

@@ -1,0 +1,203 @@
+Pemerintah\NNP kota\NNP Delhi\NNP 3, pemerintah\NNP kota\NNP Delhi\NNP 41
+orang\NN kaya\NN Cina\NNP 67, Cina\NNP 111
+Cina.\NNP 74, budaya\NN Cina\NNP 108
+Cina.\NNP 74, Cina\NNP 111
+Cina\NNP 77, Cina\NNP 111
+Cina\NNP 77, Cina\NNP 122
+uang\NN 120, Saya\PRP 151
+uang\NN 120, saya\PRP 153
+uang\NN 120, saya\PRP 154
+Cina\NNP 122, Saya\PRP 151
+Cina\NNP 122, saya\PRP 153
+Cina\NNP 122, saya\PRP 154
+jamuan\NN makan\NN malam\NN ini\PR 124, Saya\PRP 151
+jamuan\NN makan\NN malam\NN ini\PR 124, saya\PRP 153
+jamuan\NN makan\NN malam\NN ini\PR 124, saya\PRP 154
+keberhasilan\NN itu\PR 125, Saya\PRP 151
+keberhasilan\NN itu\PR 125, saya\PRP 153
+keberhasilan\NN itu\PR 125, saya\PRP 154
+pendiri\NN Facebook\NNP 127, Saya\PRP 151
+pendiri\NN Facebook\NNP 127, saya\PRP 153
+pendiri\NN Facebook\NNP 127, saya\PRP 154
+pendiri\NN Facebook\NNP 129, Saya\PRP 151
+pendiri\NN Facebook\NNP 129, saya\PRP 153
+pendiri\NN Facebook\NNP 129, saya\PRP 154
+Mark\NNP Zuckerberg\NNP 130, Saya\PRP 151
+Mark\NNP Zuckerberg\NNP 130, saya\PRP 153
+Mark\NNP Zuckerberg\NNP 130, saya\PRP 154
+Mark\NNP Zuckerberg\NNP 130, Zuckerberg\NNP 162
+Facebook\NNP 142, pembuatan\NN Facebook\NNP 182
+Saya\PRP 151, saya\PRP 153
+Saya\PRP 151, saya\PRP 154
+saya\PRP 153, saya\PRP 154
+Las\NNP Vegas\NNP 253, saya\PRP 284
+Las\NNP Vegas\NNP 253, saya\PRP 285
+Las\NNP Vegas\NNP 253, saya\PRP 286
+Badut\NN politikus\NN 256, saya\PRP 284
+Badut\NN politikus\NN 256, saya\PRP 285
+Badut\NN politikus\NN 256, saya\PRP 286
+Seorang\NND badut\NN 257, saya\PRP 284
+Seorang\NND badut\NN 257, saya\PRP 285
+Seorang\NND badut\NN 257, saya\PRP 286
+Brasil\NNP 258, saya\PRP 284
+Brasil\NNP 258, saya\PRP 285
+Brasil\NNP 258, saya\PRP 286
+dia\PRP 263, saya\PRP 284
+dia\PRP 263, saya\PRP 285
+dia\PRP 263, saya\PRP 286
+Jajak\NN pendapat\NN 264, saya\PRP 284
+Jajak\NN pendapat\NN 264, saya\PRP 285
+Jajak\NN pendapat\NN 264, saya\PRP 286
+badut\NN itu,\PR 265, saya\PRP 284
+badut\NN itu,\PR 265, saya\PRP 285
+badut\NN itu,\PR 265, saya\PRP 286
+Tiririca,\NNP 266, saya\PRP 284
+Tiririca,\NNP 266, saya\PRP 285
+Tiririca,\NNP 266, saya\PRP 286
+nya\PRP 276, saya\PRP 284
+nya\PRP 276, saya\PRP 285
+nya\PRP 276, saya\PRP 286
+nya\PRP 279, saya\PRP 284
+nya\PRP 279, saya\PRP 285
+nya\PRP 279, saya\PRP 286
+Dia\PRP 282, saya\PRP 284
+Dia\PRP 282, saya\PRP 285
+Dia\PRP 282, saya\PRP 286
+anda\PRP 283, saya\PRP 284
+anda\PRP 283, saya\PRP 285
+anda\PRP 283, saya\PRP 286
+saya\PRP 284, saya\PRP 285
+saya\PRP 284, saya\PRP 286
+saya\PRP 285, saya\PRP 286
+nya.\PRP 354, Saya\PRP 358
+Ia\PRP 355, Saya\PRP 358
+Ia\PRP 355, saya\PRP 403
+Ia\PRP 355, saya\PRP 404
+nya\PRP 356, Saya\PRP 358
+Parlemen\NNP Eropa\NNP 362, saya\PRP 403
+Parlemen\NNP Eropa\NNP 362, saya\PRP 404
+Harry\NNP Potter\NNP 365, saya\PRP 403
+Harry\NNP Potter\NNP 365, saya\PRP 404
+Harry\NNP Potter\NNP 367, saya\PRP 403
+Harry\NNP Potter\NNP 367, saya\PRP 404
+hantu\NN Nick\NNP 381, Saya\PRP 424
+Harry\NNP Potter\NNP 384, Saya\PRP 424
+Kedua\CD halaman\NN itu\PR 387, saya\PRP 403
+Kedua\CD halaman\NN itu\PR 387, saya\PRP 404
+JK\NNP Rowling\NNP 388, Saya\PRP 426
+Yayasan\NNP Kamus\NNP Bahasa\NNP Skotlandia\NNP 389, Saya\PRP 426
+saya\PRP 403, saya\PRP 404
+saya\PRP 403, Saya\PRP 424
+saya\PRP 404, Saya\PRP 424
+nya\PRP 414, Saya\PRP 424
+presenter\NNP Sarah\NNP Murdoch\NNP 420, Sarah\NNP Murdoch\NNP 445
+dia\PRP 423, Saya\PRP 424
+dia\PRP 423, Saya\PRP 426
+Saya\PRP 424, Saya\PRP 426
+YouTube\NNP 465, YouTube\NNP 511
+YouTube\NNP 465, YouTube.\NNP 513
+YouTube.\NNP 473, YouTube\NNP 511
+YouTube.\NNP 473, YouTube.\NNP 513
+Petani\NNP Roland\NNP Cavaille\NNP 624, Cavaille\NNP 662
+Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP 801, saya\PRP 854
+IHSG\NNP 804, saya\PRP 854
+krisis\NN finansial\JJ 810, saya\PRP 854
+Bursa\NNP Efek\NNP Jakarta\NNP 813, saya\PRP 854
+Erry\NNP Firmansyah\NNP 815, saya\PRP 854
+Rabu\NNP malam,\NN 817, saya\PRP 854
+Menkeu\NN 818, saya\PRP 854
+Kita\PRP 821, saya\PRP 854
+harga\NN beras\NN 824, saya\PRP 854
+saat\NN ini\PR 842, saya\PRP 854
+ini\PR 853, saya\PRP 854
+hari\NN ini,\PR 867, Saya\PRP 914
+Presiden\NN 868, Saya\PRP 914
+Perpres\NN 869, Saya\PRP 914
+produk\NN primer\JJ 870, Saya\PRP 914
+Pemerintah\NN 873, Saya\PRP 914
+Crude\FW Palm\FW Oil\FW 878, Saya\PRP 914
+CPO\FW 879, Saya\PRP 914
+PT\NNP Astra\NNP Agro\NNP Lestari\NNP 880, Saya\PRP 914
+AALI\NNP 881, Saya\PRP 914
+Oktober\NNP 2007\CD 882, Saya\PRP 914
+88.343\CD ton\NND 884, Saya\PRP 914
+September\NNP 885, Saya\PRP 914
+tahun\NN ini\PR 912, Saya\PRP 914
+Kerajaan\NNP Inggris\NNP 955, Inggris\NNP 1019
+ICMI\NNP 959, Ketua\NNP ICMI\NNP London\NNP 1012
+Inggris.\NNP 963, Indonesia\NNP dan\CC Inggris\NNP 1015
+Inggris.\NNP 963, Inggris\NNP 1019
+Senin,\NNP 972, Senin.\NNP 1043
+NTT,\NNP 1030, NTT,\NNP 1090
+NTB,\NNP 1032, NTB\NNP 1091
+Labuhan\NNP Bajo\NNP 1033, Labuhan\NNP Bajo\NNP 1092
+Direktur\NNP Utama\NNP IATA,\NNP 1040, IATA,\NNP 1099
+Roekman\NNP 1044, Roekman\NNP 1101
+perusahaan\NNP travel\NNP PT\NNP Mirantha\NNP Nuansa\NNP Ayu.\NNP 1061, Mirantha.\NNP 1119
+Mirantha\NNP 1063, Mirantha.\NNP 1119
+Roekman\NNP 1068, Roekman.\NNP 1122
+senilai\NN 430\CD juta\CD dolar\NN AS.\NNP 1171, dolar\NN AS,\NNP 1245
+BCA\NNP 1291, BCA\NNP dan\CC Mandiri\NNP 1337
+BCA\NNP 1291, BCA\NNP 1341
+Wakil\NNP Presiden\NNP BCA\NNP 1297, BCA\NNP 1341
+Surat\NNP Bank\NNP Indonesia\NNP 1302, Indonesia,\NNP 1348
+Surat\NNP Bank\NNP Indonesia\NNP 1302, Indonesia\NNP 1351
+Surat\NNP Bank\NNP Indonesia\NNP 1302, Indonesia\NNP 1359
+Indonesia\NNP 1359, beberapa\CD wilayah\NN Indonesia.\NNP 1441
+Kamis.\NNP 1437, Kamis,\NNP 1503
+Kamis.\NNP 1437, Kamis\NNP 1514
+beberapa\CD wilayah\NN Indonesia.\NNP 1441, Indonesia.\NNP 1509
+Fitch\NNP Ratings,\NNP 1502, Fitch,\NNP 1573
+Panin\NNP 1508, Panin\NNP 1574
+Fitch\NNP 1510, Fitch,\NNP 1573
+Panin\NNP 1521, Panin\NNP 1574
+Fitch,\NNP 1573, pengertian\NN Fitch,\NNP 1629
+Fitch,\NNP 1573, Fitch\NNP 1648
+Panin\NNP 1574, Permodalan\NN Panin\NNP 1635
+Panin\NNP 1574, Panin\NNP 1649
+Direktur\NNP Utama\NNP PT\NNP Bank\NNP Mandiri\NNP 1680, Bank\NNP Mandiri\NNP 1730
+Direktur\NNP Utama\NNP PT\NNP Bank\NNP Mandiri\NNP 1680, Bank\NNP Mandiri\NNP 1739
+Bank\NNP Mandiri\NNP 1682, Bank\NNP Mandiri\NNP 1730
+Bank\NNP Mandiri\NNP 1682, Bank\NNP Mandiri\NNP 1739
+Menteri\NNP Negara\NNP BUMN,\NNP 1694, Menteri\NNP Negara\NNP BUMN,\NNP 1728
+Sugiharto,\NNP 1695, Sugiharto,\NNP 1729
+Presiden\NNP Bank\NNP Dunia,\NNP 1748, Bank\NNP Dunia,\NNP 1798
+Presiden\NNP Bank\NNP Dunia,\NNP 1748, Bank\NNP Dunia\NNP 1805
+Presiden\NNP Bank\NNP Dunia,\NNP 1748, Bank\NNP Dunia\NNP 1808
+Bank\NNP Dunia\NNP 1752, Bank\NNP Dunia,\NNP 1798
+Bank\NNP Dunia\NNP 1752, Bank\NNP Dunia\NNP 1805
+Bank\NNP Dunia\NNP 1752, Bank\NNP Dunia\NNP 1808
+IMF/\NNP WB\NNP 1753, IMF/\NNP WB\NNP 1803
+Bank\NNP Dunia\NNP 1761, Bank\NNP Dunia\NNP 1805
+Bank\NNP Dunia\NNP 1761, Bank\NNP Dunia\NNP 1808
+Indonesia\NNP 1771, pemerintah\NNP Indonesia\NNP 1824
+Bank\NNP Dunia.\NNP 1776, Bank\NNP Dunia\NNP 1829
+Indonesia\NNP 1780, pemerintah\NNP Indonesia\NNP 1824
+Bank\NNP Dunia\NNP 1789, Bank\NNP Dunia\NNP 1850
+Bank\NNP Dunia,\NNP 1798, Bank\NNP Dunia\NNP 1850
+Bank\NNP Dunia,\NNP 1798, Bank\NNP Dunia\NNP 1857
+Bank\NNP Dunia\NNP 1805, Bank\NNP Dunia\NNP 1857
+Indonesia,\NNP 1806, Indonesia,\NNP 1858
+Indonesia,\NNP 1806, pemerintah\NNP Indonesia\NNP 1860
+Indonesia,\NNP 1806, ekonomi\NN Indonesia\NNP 1867
+Bank\NNP Dunia\NNP 1808, Bank\NNP Dunia\NNP 1857
+Indonesia\NNP 1809, Indonesia,\NNP 1858
+Indonesia\NNP 1809, pemerintah\NNP Indonesia\NNP 1860
+Indonesia\NNP 1809, ekonomi\NN Indonesia\NNP 1867
+Jakarta\NNP 1828, Gedung\NNP Depkeu\NNP Jakarta,\NNP 1884
+Gedung\NNP Depkeu\NNP Jakarta,\NNP 1884, Jakarta,\NNP 1935
+Senin.\NNP 1885, Senin.\NNP 1936
+Jakarta,\NNP 1935, Jakarta,\NNP 2004
+Bursa\NNP Efek\NNP Surabaya\NNP 2002, PT\NNP Bursa\NNP Efek\NNP Surabaya\NNP 2084
+BES\NNP 2003, BES\NNP 2085
+BES\NNP 2003, saham\NN BES\NNP 2092
+Jakarta,\NNP 2004, Jakarta,\NNP 2087
+Jakarta,\NNP 2004, Jakarta.\NNP 2096
+Jumat.\NNP 2005, Jumat,\NNP 2088
+Jakarta,\NNP 2087, Jakarta,\NNP 2154
+Jakarta,\NNP 2087, Jakarta\NNP 2173
+Jakarta.\NNP 2096, Jakarta,\NNP 2154
+Jakarta.\NNP 2096, Jakarta\NNP 2173
+PT\NNP Finanza\NNP Indonesia,\NNP 2103, Indonesia\NNP 2179
+Menteri\NNP Keuangan\NNP Jepang\NNP Koji\NNP Omi,\NNP 2151, Jepang\NNP 2200
+Menteri\NNP Keuangan\NNP Jepang\NNP Koji\NNP Omi,\NNP 2151, Jepang,\NNP 220

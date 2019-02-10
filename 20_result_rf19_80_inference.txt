@@ -1,0 +1,80 @@
+1916, 1930, PT\NNP Astra\NNP Otoparts\NNP Tbk\NNP, PT\NNP Astra\NNP Otoparts\NNP
+1933, 1934, Sekretaris\NNP Perusahaan\NNP Astra\NNP Otoparts,\NNP, Kartina\NNP Rahayu\NNP
+1933, 1937, Sekretaris\NNP Perusahaan\NNP Astra\NNP Otoparts,\NNP, dia,\PRP
+1933, 1940, Sekretaris\NNP Perusahaan\NNP Astra\NNP Otoparts,\NNP, Dia\PRP
+1940, 1946, Dia\PRP, nya\PRP
+1940, 1952, Dia\PRP, nya.\PRP
+1940, 1953, Dia\PRP, Menkeu\NNP Sri\NNP Mulyani\NNP Indrawati\NNP
+1940, 1964, Dia\PRP, Dia\PRP
+1964, 2266, Dia\PRP, Hartadi\NNP
+2255, 2266, Hartadi\NNP A\NNP Sarwono\NNP, Hartadi\NNP
+2255, 2270, Hartadi\NNP A\NNP Sarwono\NNP, Hartadi\NNP
+2258, 2266, Ia\PRP, Hartadi\NNP
+2258, 2270, Ia\PRP, Hartadi\NNP
+2258, 2278, Ia\PRP, nya\PRP
+2258, 2286, Ia\PRP, Hartadi\NNP
+2266, 2270, Hartadi\NNP, Hartadi\NNP
+2266, 2286, Hartadi\NNP, Hartadi\NNP
+2270, 2274, Hartadi\NNP, nya\PRP
+2270, 2278, Hartadi\NNP, nya\PRP
+2270, 2286, Hartadi\NNP, Hartadi\NNP
+2270, 2303, Hartadi\NNP, Ia\PRP
+2303, 2316, Ia\PRP, Ansari\NNP
+2311, 2316, Dirjend\NNP Industri\NNP Logam\NNP Mesin\NNP Tekstil\NNP Departemen\NNP Perindustrian\NNP Ansari\NNP Bukhari\NNP, Ansari\NNP
+2311, 2323, Dirjend\NNP Industri\NNP Logam\NNP Mesin\NNP Tekstil\NNP Departemen\NNP Perindustrian\NNP Ansari\NNP Bukhari\NNP, Ansari\NNP
+2316, 2323, Ansari\NNP, Ansari\NNP
+2339, 2368, Indonesia\NNP Investor\NNP Forum\NNP, Indonesia\NNP Investor\NNP Forum\NNP
+2393, 2399, Direktur\NNP AALI,\NNP, nya\PRP
+2393, 2423, Direktur\NNP AALI,\NNP, Deputi\NNP Senior\NNP
+2393, 2426, Direktur\NNP AALI,\NNP, Miranda\NNP S.\NNP Goeltom\NNP
+2426, 2450, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2436, 2450, Miranda\NNP, Miranda\NNP
+2450, 2480, Miranda\NNP, Miranda\NNP
+2455, 2471, Pertumbuhan\NN ekonomi\NN Indonesia\NNP, pertumbuhan\NN ekonomi\NN Indonesia\NNP
+2460, 2466, Kami\PRP, nya,\PRP
+2460, 2469, Kami\PRP, Deputi\NNP Gubernur\NNP Senior\NNP BI,\NNP
+2469, 2470, Deputi\NNP Gubernur\NNP Senior\NNP BI,\NNP, Miranda\NNP S.\NNP Goeltom\NNP
+2470, 2480, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2471, 2495, pertumbuhan\NN ekonomi\NN Indonesia\NNP, pertumbuhan\NN ekonomi\NN Indonesia\NNP
+2510, 2530, Bank\NNP Mandiri\NNP, Bank\NNP Mandiri\NNP
+2517, 2528, nya.\PRP, dia,\PRP
+2517, 2545, nya.\PRP, nya.\PRP
+2520, 2528, kami,\PRP, dia,\PRP
+2521, 2528, nya\PRP, dia,\PRP
+2524, 2525, Direktur\NNP Teknologi\NNP dan\NNP Operasional\NNP Bank\NNP Mandiri,\NNP, Sasmita\NNP
+2524, 2528, Direktur\NNP Teknologi\NNP dan\NNP Operasional\NNP Bank\NNP Mandiri,\NNP, dia,\PRP
+2524, 2545, Direktur\NNP Teknologi\NNP dan\NNP Operasional\NNP Bank\NNP Mandiri,\NNP, nya.\PRP
+2525, 2545, Sasmita\NNP, nya.\PRP
+2535, 2543, Ia\PRP, kita\PRP
+2535, 2545, Ia\PRP, nya.\PRP
+2535, 2552, Ia\PRP, nya,\PRP
+2535, 2554, Ia\PRP, nya\PRP
+2535, 2565, Ia\PRP, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP Indrawati\NNP
+2592, 2620, nya\PRP, nya.\PRP
+2592, 2630, nya\PRP, nya.\PRP
+2620, 2630, nya.\PRP, nya.\PRP
+2620, 2640, nya.\PRP, nya,\PRP
+2621, 2630, Boediono,\NNP, nya.\PRP
+2640, 2672, nya,\PRP, dia,\PRP
+2652, 2669, Pefindo\NNP, nya\PRP
+2655, 2677, TRJE\NNP, TRJE\NNP
+2655, 2693, TRJE\NNP, TRJE\NNP
+2668, 2669, analis\NNP Pefindo\NNP Ronald\NNP Hertanto,\NNP, nya\PRP
+2668, 2672, analis\NNP Pefindo\NNP Ronald\NNP Hertanto,\NNP, dia,\PRP
+2718, 2725, ADB\NNP, ADB\NNP
+2733, 2734, Direktur\NNP Pendanaan\NNP Luar\NNP Negeri\NNP Multilateral\NNP Bappenas,\NNP, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP
+2733, 2767, Direktur\NNP Pendanaan\NNP Luar\NNP Negeri\NNP Multilateral\NNP Bappenas,\NNP, Dewo.\NNP
+2744, 2752, nya,\PRP, nya\PRP
+2744, 2767, nya,\PRP, Dewo.\NNP
+2752, 2767, nya\PRP, Dewo.\NNP
+2776, 2778, Sekretaris\NNP Perusahaan\NNP Bakrie\NNP Sumatera\NNP Plantations\NNP Tbk,\NNP, nya\PRP
+2776, 2786, Sekretaris\NNP Perusahaan\NNP Bakrie\NNP Sumatera\NNP Plantations\NNP Tbk,\NNP, ia\PRP
+2778, 2786, nya\PRP, ia\PRP
+2815, 2837, Dirjen\NNP Bea\NNP dan\NNP Cukai\NNP Departemen\NNP Keuangan\NNP Anwar\NNP Suprijadi\NNP, Anwar\NNP
+2834, 2837, Anwar\NNP Suprijadi\NNP, Anwar\NNP
+2869, 2870, nya.\PRP, dia,\PRP
+2869, 2881, nya.\PRP, nya.\PRP
+2869, 2882, nya.\PRP, Ia\PRP
+2870, 2881, dia,\PRP, nya.\PRP
+2881, 2882, nya.\PRP, Ia\PRP
+2881, 2925, nya.\PRP, nya.\PRP

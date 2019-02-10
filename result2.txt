@@ -1,0 +1,5 @@
+1, 2, Doris\NNP, dia\PRP
+1, 6, Doris\NNP, saya\PRP
+1, 11, Doris\NNP, nya.\PRP
+6, 11, saya\PRP, nya.\PRP
+11, 12, nya.\PRP, Dia\PRP

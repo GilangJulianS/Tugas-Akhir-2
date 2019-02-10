@@ -1,0 +1,228 @@
+2, 24, Polri,\NNP, dia.\PRP
+7, 24, Freddy.\NNP, dia.\PRP
+28, 33, Ia\PRP, ia\PRP
+71, 73, Akbar.\NN, calon\NN kepala\NN daerah\NN
+72, 101, DPP\NN Partai\NN Golkar\NNP, dia.\PRP
+77, 101, Ketua\NN Bidang\NN Pemenangan\NN Pemilu\NN Aceh\NNP, dia.\PRP
+81, 101, kontrak\NN politik\NN, dia.\PRP
+81, 102, kontrak\NN politik\NN, Andi\PRP
+85, 94, Kontrak\NN politik\NN ini\DT, kami\PRP
+91, 101, Jakarta,\NNP, dia.\PRP
+126, 129, Mereka\PRP, mereka\PRP
+145, 146, Aceh\NNP Tamiang,\NNP, Bireun,\NNP
+148, 149, Wakil\NN Ketua\NN Tim\NNP, Pemenangan\NN Basuki\NN Tjahaja\NN Purnama\NN
+152, 161, Rumah\NN Lembang\NN, Rumah\NN Lembang\NNP
+153, 162, relawan\NN dan\CC warga\NN, wadah\NN pertemuan\NN dan\CC pertukaran\NN informasi\NN
+155, 161, Rumah\NN Lembang\NN, Rumah\NN Lembang\NNP
+231, 243, Andi\NNP, Andi\NNP
+231, 275, Andi\NNP, Andi.\NNP
+243, 275, Andi\NNP, Andi.\NNP
+271, 272, Sekarang\NN relatif\JJ, aman.\NN
+297, 298, aspek\NN penyelenggaraan,\NN, kontestasi,\NN
+300, 337, Menteri\NN Agama\NN Lukman\NN Hakim\NN Saifudin\NNP, Lukman.\NN
+309, 310, Kompleks\NN Parlemen,\NN, Senayan,\NN
+320, 337, Lukman.\NN, Lukman.\NN
+326, 337, hal\NN itu\DT, Lukman.\NN
+326, 343, hal\NN itu\DT, dia\PRP
+326, 347, hal\NN itu\DT, Saya\PRP
+337, 348, Lukman.\NN, rasa\NN permohonan\NN maaf\NN Menteri\NN Agama\NN keoada\NN umat\NN muslim\NN
+341, 347, kualitas\NN penyelenggaraan\NN haji\NN tahun\NN ini\DT, Saya\PRP
+367, 369, ter\NN Stegen\NN diplot\JJ, Pemandangan\NN tersebut\DT
+391, 396, Dia\PRP, dia\PRP
+426, 456, SIRNAS\NNP, Saya\PRP
+426, 493, SIRNAS\NNP, saya\PRP
+430, 435, SD\NNP dan\CC SMP\NN, SD\NN Putra,\NN
+430, 436, SD\NNP dan\CC SMP\NN, SD\NN Putri,\NN
+430, 437, SD\NNP dan\CC SMP\NN, SMP\NN Putra\NN
+430, 438, SD\NNP dan\CC SMP\NN, SMP\NN Putri.\NN
+432, 461, Piala\NNP MILO\NNP, MILO\NNP School\NNP Competition\NNP
+442, 443, Sritex\NN Arena\NNP Hall\NNP B\NNP Solo.\NNP, Ketua\NN Bidang\NN Keabsahan\NN Pengprov\NN PBSI\NNP
+442, 451, Sritex\NN Arena\NNP Hall\NNP B\NNP Solo.\NNP, Solo.\NNP
+445, 456, Saya\PRP, Saya\PRP
+445, 483, Saya\PRP, Saya\PRP
+445, 489, Saya\PRP, saya\PRP
+445, 496, Saya\PRP, Saya\PRP
+447, 464, MILO\NN, kami\PRP
+452, 464, Kami\PRP, kami\PRP
+452, 471, Kami\PRP, kami\PRP
+456, 483, Saya\PRP, Saya\PRP
+456, 489, Saya\PRP, saya\PRP
+456, 496, Saya\PRP, Saya\PRP
+482, 483, MILO\NNP School\NNP Competition\NNP Cirebon.\NNP, Saya\PRP
+482, 502, MILO\NNP School\NNP Competition\NNP Cirebon.\NNP, Indonesia,\NNP
+483, 489, Saya\PRP, saya\PRP
+483, 496, Saya\PRP, Saya\PRP
+489, 493, saya\PRP, saya\PRP
+493, 496, saya\PRP, Saya\PRP
+558, 559, batu\NN nisannya.\JJ, Prajurit\NN Konfederasi\NN itu\DT
+561, 565, Dia\PRP, dia\PRP
+561, 581, Dia\PRP, dia\PRP
+578, 586, Beckman,\NNP, Beckman,\NNP
+601, 628, perbaikan\NN nisan\NNP, Saya\PRP
+618, 619, tahun,\NN, Beckman.\NNP
+628, 648, Saya\PRP, Saya\PRP
+635, 653, Roy\NNP Calloway\NNP, Roy\NNP
+650, 652, Semuanya\NN, Roy.\NNP
+652, 654, Roy.\NNP, dia\PRP
+652, 686, Roy.\NNP, Roy.\NNP
+654, 669, dia\PRP, dia.\PRP
+656, 669, dampak\NN serangkaian\NN serangan\NN jantung\NN, dia.\PRP
+657, 663, Saya\PRP, Saya\PRP
+657, 687, Saya\PRP, saya\PRP
+661, 663, saya\PRP, Saya\PRP
+661, 672, saya\PRP, dia\PRP
+661, 677, saya\PRP, saya\PRP
+661, 681, saya\PRP, saya\PRP
+661, 683, saya\PRP, saya\PRP
+661, 686, saya\PRP, Roy.\NNP
+661, 687, saya\PRP, saya\PRP
+663, 687, Saya\PRP, saya\PRP
+666, 672, saya\PRP, dia\PRP
+666, 677, saya\PRP, saya\PRP
+666, 681, saya\PRP, saya\PRP
+666, 683, saya\PRP, saya\PRP
+666, 686, saya\PRP, Roy.\NNP
+666, 687, saya\PRP, saya\PRP
+666, 697, saya\PRP, saya\PRP
+677, 681, saya\PRP, saya\PRP
+677, 683, saya\PRP, saya\PRP
+677, 686, saya\PRP, Roy.\NNP
+677, 687, saya\PRP, saya\PRP
+677, 689, saya\PRP, dia.\PRP
+677, 697, saya\PRP, saya\PRP
+677, 717, saya\PRP, saya\PRP
+680, 686, Putranya\NN, Roy.\NNP
+681, 683, saya\PRP, saya\PRP
+681, 686, saya\PRP, Roy.\NNP
+681, 687, saya\PRP, saya\PRP
+681, 697, saya\PRP, saya\PRP
+681, 717, saya\PRP, saya\PRP
+683, 686, saya\PRP, Roy.\NNP
+683, 687, saya\PRP, saya\PRP
+683, 697, saya\PRP, saya\PRP
+683, 717, saya\PRP, saya\PRP
+687, 697, saya\PRP, saya\PRP
+687, 717, saya\PRP, saya\PRP
+693, 696, cara\NN Roy\NN bermain\JJ, Dia\PRP
+693, 697, cara\NN Roy\NN bermain\JJ, saya\PRP
+693, 706, cara\NN Roy\NN bermain\JJ, dia.\PRP
+693, 721, cara\NN Roy\NN bermain\JJ, dia.\PRP
+693, 745, cara\NN Roy\NN bermain\JJ, dia,\PRP
+697, 699, saya\PRP, Saya\PRP
+697, 700, saya\PRP, saya\PRP
+697, 717, saya\PRP, saya\PRP
+699, 702, Saya\PRP, Saya\PRP
+699, 749, Saya\PRP, Saya\PRP
+717, 724, saya\PRP, pendidikan\NN karakter\NN
+717, 765, saya\PRP, kita.\PRP
+722, 738, Menteri\NN Pendidikan\NN dan\CC Kebudayaan\NN, Pekan\NN Olahraga\NN dan\CC Seni\NN
+773, 782, visi\NN dan\CC misi\NN Presiden\NN Joko\NNP Widodo\NNP, Plt\NN Ketua\NN Umum\JJ
+812, 830, saya\PRP, dia\PRP
+812, 835, saya\PRP, Ken.\NNP
+822, 835, Ken\NNP, Ken.\NNP
+832, 837, kena\NN pajak.\NN, kena\NN pajak,\NN
+841, 852, Pemerintah\NN, Direktur\NN Jenderal\NN Pengelolaan\NN Pembiayaan\NN dan\CC Risiko\NN
+890, 942, OJK\NNP, OJK\NNP
+899, 932, Ketua\NN Dewan\NN Komisioner\NN OJK\NNP Muliaman\NNP D\NNP Hadad,\NNP, imbuh\NN Muliaman,\NNP
+899, 956, Ketua\NN Dewan\NN Komisioner\NN OJK\NNP Muliaman\NNP D\NNP Hadad,\NNP, tutur\NNP Muliaman.\NNP
+917, 924, Muliaman\NNP, Muliaman\NNP
+919, 948, sela\NN acara\NN Indonesia\NNP, saya\PRP
+919, 952, sela\NN acara\NN Indonesia\NNP, saya\PRP
+930, 931, tahap\NN pengenalan.\NN, Hal\NN
+948, 952, saya\PRP, saya\PRP
+948, 985, saya\PRP, saya\PRP
+948, 995, saya\PRP, dia\PRP
+952, 985, saya\PRP, saya\PRP
+952, 995, saya\PRP, dia\PRP
+957, 962, Pemerintah\NN Provinsi\NN Sulawesi\NN Utara\NN, Gubernur\NN Sulawesi\NN Utara\NN Olly\NN Dondokambey\NN
+966, 1003, Penyerahan\NN hadiah\NN rumah\NN, saya\PRP
+966, 1006, Penyerahan\NN hadiah\NN rumah\NN, saya\PRP
+966, 1009, Penyerahan\NN hadiah\NN rumah\NN, saya\PRP
+966, 1011, Penyerahan\NN hadiah\NN rumah\NN, saya\PRP
+966, 1013, Penyerahan\NN hadiah\NN rumah\NN, saya\PRP
+968, 971, Wakil\NN Gubernur\NN Sulut\NNP Steven\NNP Kandou,\NNP, Gubernur\NN Olly\NNP Dondokambey\NNP
+973, 987, Liliyana\NNP Natsir.\NNP, ucap\NN Liliyana\NN Natsir\NNP
+979, 987, ucap\NN Olly\NNP, ucap\NN Liliyana\NN Natsir\NNP
+985, 987, saya\PRP, ucap\NN Liliyana\NN Natsir\NNP
+985, 1003, saya\PRP, saya\PRP
+985, 1006, saya\PRP, saya\PRP
+985, 1009, saya\PRP, saya\PRP
+985, 1011, saya\PRP, saya\PRP
+985, 1013, saya\PRP, saya\PRP
+985, 1035, saya\PRP, Padahal,\NNP
+986, 1032, harum\NN nama\NN bangsa\NN dan\CC daerah\NN Sulut,\NNP, mereka\PRP
+987, 995, ucap\NN Liliyana\NN Natsir\NNP, dia\PRP
+993, 1030, Gubernur\NN DKI\NNP Jakarta\NNP, Pemprov\NN DKI\NNP
+999, 1009, Jakarta\NNP Pusat.\NN, saya\PRP
+999, 1011, Jakarta\NNP Pusat.\NN, saya\PRP
+999, 1013, Jakarta\NNP Pusat.\NN, saya\PRP
+1002, 1021, gaji\NN pegawai\NN PDS\NN H.B\NNP Jassin.\NNP, Sejarawan\NN JJ\NN Rizal\NNP dan\CC pengelola\NN PDS\NN H.B\NN Jassin\NN
+1003, 1006, saya\PRP, saya\PRP
+1003, 1009, saya\PRP, saya\PRP
+1003, 1011, saya\PRP, saya\PRP
+1003, 1013, saya\PRP, saya\PRP
+1003, 1015, saya\PRP, Basuki\NN atau\CC Ahok\NNP
+1003, 1023, saya\PRP, mereka\PRP
+1003, 1037, saya\PRP, mereka\PRP
+1003, 1058, saya\PRP, mereka\PRP
+1006, 1009, saya\PRP, saya\PRP
+1006, 1011, saya\PRP, saya\PRP
+1006, 1013, saya\PRP, saya\PRP
+1006, 1015, saya\PRP, Basuki\NN atau\CC Ahok\NNP
+1006, 1023, saya\PRP, mereka\PRP
+1006, 1037, saya\PRP, mereka\PRP
+1006, 1058, saya\PRP, mereka\PRP
+1007, 1015, Lu\NNP, Basuki\NN atau\CC Ahok\NNP
+1009, 1011, saya\PRP, saya\PRP
+1009, 1013, saya\PRP, saya\PRP
+1009, 1015, saya\PRP, Basuki\NN atau\CC Ahok\NNP
+1009, 1023, saya\PRP, mereka\PRP
+1009, 1027, saya\PRP, dana\NN hibah\NN
+1009, 1037, saya\PRP, mereka\PRP
+1009, 1058, saya\PRP, mereka\PRP
+1011, 1013, saya\PRP, saya\PRP
+1011, 1015, saya\PRP, Basuki\NN atau\CC Ahok\NNP
+1011, 1023, saya\PRP, mereka\PRP
+1011, 1027, saya\PRP, dana\NN hibah\NN
+1011, 1037, saya\PRP, mereka\PRP
+1011, 1058, saya\PRP, mereka\PRP
+1013, 1015, saya\PRP, Basuki\NN atau\CC Ahok\NNP
+1013, 1023, saya\PRP, mereka\PRP
+1013, 1027, saya\PRP, dana\NN hibah\NN
+1013, 1037, saya\PRP, mereka\PRP
+1013, 1058, saya\PRP, mereka\PRP
+1017, 1018, Kota\NN DKI\NNP Jakarta,\NNP, Jalan\NN Medan\NNP Merdeka\NNP
+1023, 1037, mereka\PRP, mereka\PRP
+1027, 1028, dana\NN hibah\NN, Dia\PRP
+1036, 1052, Ahok\NNP, Ahok.\NNP
+1036, 1077, Ahok\NNP, Ahok.\NNP
+1052, 1077, Ahok.\NNP, Ahok.\NNP
+1053, 1077, Ahok\NNP, Ahok.\NNP
+1061, 1077, Dia\PRP, Ahok.\NNP
+1066, 1077, Pernah\NN, Ahok.\NNP
+1073, 1075, besok\NNP aku\NN stop\NN, saya\PRP
+1093, 1098, Diskusi\NN Media\NNP Prospek\NN SSB\NNP dan\CC BUM\NN, Maurin,\NNP
+1116, 1117, Maurin.\NNP, Ia\PRP
+1138, 1139, Anggota\NN Komisi\NN II\CDO, DPR\NN RI,\NNP
+1139, 1140, DPR\NN RI,\NNP, Arteria\NNP Dahlan,\NNP
+1145, 1146, Pilkada.\NNP, Keputusan\NN ini\DT
+1205, 1223, ucap\NN Arteria.\NNP, dia.\PRP
+1206, 1223, Arteria,\NNP, dia.\PRP
+1251, 1257, Masyarakat\NN, Direktur\NN Jenderal\NN Pembiayaan\NN perumahan\NN Maurin\NNP Sitorus\NNP
+1251, 1271, Masyarakat\NN, ia\PRP
+1289, 1299, bantuan\NN, bantuan\NN
+1323, 1326, Saya\PRP, Saya\PRP
+1323, 1328, Saya\PRP, Yusril\NNP
+1326, 1337, Saya\PRP, Dia\PRP
+1328, 1365, Yusril\NNP, Yusril\NNP
+1333, 1350, Undang\NNP, saya,\PRP
+1333, 1359, Undang\NNP, saya\PRP
+1333, 1383, Undang\NNP, saya\PRP
+1350, 1362, saya,\PRP, Yusril.\NNP
+1354, 1359, supaya\NN MK\NNP, saya\PRP
+1354, 1375, supaya\NN MK\NNP, pemohon\NN atau\CC Ahok.\NNP
+1354, 1397, supaya\NN MK\NNP, keinginan\NN Ahok.\NNP
+1359, 1362, saya\PRP, Yusril.\NNP
+1359, 1383, saya\PRP, saya\PRP
+1362, 1365, Yusril.\NNP, Yusril\NNP
+1362, 1372, Yusril.\NNP, dia,\PRP

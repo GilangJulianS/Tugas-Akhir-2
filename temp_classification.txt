@@ -1,0 +1,33 @@
+false,false,false,PERSON,PERSON,false,true,true,false,1,false,false,false,false,false,false,?, Risma\NNP, dia,\PRP, 1, 4, 0.0
+false,false,false,PERSON,OTHER,false,false,true,true,1,false,false,false,false,false,false,?, Risma\NNP, Tuhan.\NNP, 1, 7, 0.0
+false,false,false,PERSON,TITLE,false,false,true,true,2,false,false,false,false,false,false,?, Risma\NNP, pilkada\NN Jakarta,\NNP, 1, 9, 0.0
+true,true,true,PERSON,PERSON,false,false,true,true,2,false,false,false,false,false,false,?, Risma\NNP, Risma\NNP, 1, 10, 1.0
+false,false,false,PERSON,OTHER,false,false,true,true,2,false,false,false,false,false,false,?, Risma\NNP, Megawati.\NNP, 1, 12, 0.0
+false,false,false,PERSON,PERSON,false,true,true,false,3,false,false,true,false,false,false,?, Risma\NNP, saya\PRP, 1, 14, 0.0
+false,false,false,PERSON,PERSON,false,true,true,false,3,false,false,true,false,false,false,?, Risma\NNP, saya\PRP, 1, 15, 0.0
+false,false,false,PERSON,PERSON,false,false,true,true,4,false,false,false,false,false,false,?, Risma\NNP, Nanti\NNP, 1, 16, 0.0
+false,false,false,PERSON,PERSON,false,true,true,false,4,false,false,true,false,false,false,?, Risma\NNP, saya\PRP, 1, 17, 1.0
+false,false,false,PERSON,PERSON,false,true,true,false,4,false,false,true,false,false,false,?, Risma\NNP, saya\PRP, 1, 19, 1.0
+false,false,false,PERSON,PERSON,false,true,true,false,4,false,false,true,false,false,false,?, Risma\NNP, saya\PRP, 1, 21, 1.0
+false,false,true,PERSON,OTHER,false,false,true,true,4,false,false,false,false,false,false,?, Risma\NNP, Risma.\NNP, 1, 23, 1.0
+false,false,false,PERSON,OTHER,true,false,false,true,0,false,false,false,false,false,false,?, dia,\PRP, Tuhan.\NNP, 4, 7, 0.0
+false,false,false,PERSON,TITLE,true,false,false,true,1,false,false,false,false,false,false,?, dia,\PRP, pilkada\NN Jakarta,\NNP, 4, 9, 0.0
+false,false,false,PERSON,PERSON,true,false,false,true,1,false,false,false,false,false,false,?, dia,\PRP, Risma\NNP, 4, 10, 0.0
+false,false,false,PERSON,OTHER,true,false,false,true,1,false,false,false,false,false,false,?, dia,\PRP, Megawati.\NNP, 4, 12, 0.0
+false,false,false,PERSON,PERSON,true,true,false,false,2,false,false,true,false,false,false,?, dia,\PRP, saya\PRP, 4, 14, 0.0
+false,false,false,PERSON,PERSON,true,true,false,false,2,false,false,true,false,false,false,?, dia,\PRP, saya\PRP, 4, 15, 0.0
+false,false,false,PERSON,PERSON,true,false,false,true,3,false,false,false,false,false,false,?, dia,\PRP, Nanti\NNP, 4, 16, 0.0
+false,false,false,PERSON,PERSON,true,true,false,false,3,false,false,true,false,false,false,?, dia,\PRP, saya\PRP, 4, 17, 1.0
+false,false,false,PERSON,PERSON,true,true,false,false,3,false,false,true,false,false,false,?, dia,\PRP, saya\PRP, 4, 19, 1.0
+false,false,false,PERSON,PERSON,true,true,false,false,3,false,false,true,false,false,false,?, dia,\PRP, saya\PRP, 4, 21, 1.0
+false,false,false,PERSON,OTHER,true,false,false,true,3,false,false,false,false,false,false,?, dia,\PRP, Risma.\NNP, 4, 23, 0.0
+false,false,false,OTHER,TITLE,false,false,true,true,1,false,false,false,false,false,false,?, Tuhan.\NNP, pilkada\NN Jakarta,\NNP, 7, 9, 0.0
+false,false,false,OTHER,PERSON,false,false,true,true,1,false,false,false,false,false,false,?, Tuhan.\NNP, Risma\NNP, 7, 10, 0.0
+false,false,false,OTHER,OTHER,false,false,true,true,1,false,false,false,false,false,false,?, Tuhan.\NNP, Megawati.\NNP, 7, 12, 0.0
+false,false,false,OTHER,PERSON,false,true,true,false,2,false,false,true,false,false,false,?, Tuhan.\NNP, saya\PRP, 7, 14, 0.0
+false,false,false,OTHER,PERSON,false,true,true,false,2,false,false,true,false,false,false,?, Tuhan.\NNP, saya\PRP, 7, 15, 0.0
+false,false,false,OTHER,PERSON,false,false,true,true,3,false,false,false,false,false,false,?, Tuhan.\NNP, Nanti\NNP, 7, 16, 0.0
+false,false,false,OTHER,PERSON,false,true,true,false,3,false,false,true,false,false,false,?, Tuhan.\NNP, saya\PRP, 7, 17, 0.0
+false,false,false,OTHER,PERSON,false,true,true,false,3,false,false,true,false,false,false,?, Tuhan.\NNP, saya\PRP, 7, 19, 0.0
+false,false,false,OTHER,PERSON,false,true,true,false,3,false,false,true,false,false,false,?, Tuhan.\NNP, saya\PRP, 7, 21, 0.0
+false,false,false,OTHER,OTHER,false,false,true,true,3,false,false,false,false,false,false,?, Tuhan.\NNP, Risma.\NNP, 7, 23, 0.0

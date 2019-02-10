@@ -1,0 +1,987 @@
+3, 11, Pemerintah\NNP kota\NNP Delhi\NNP, Pemkot\NNP Delhi\NNP
+10, 16, ibukota\NNP India.\NNP, ibukota\NNP India\NNP
+11|3, 23, Pemkot\NNP Delhi\NNP, pemkot\NN
+23|11|3, 41, pemkot\NN, pemerintah\NNP kota\NNP Delhi\NNP
+29, 42, Kantor\NNP berita\NNP AFP\NNP, kantor\NNP berita\NNP AFP.\NNP
+44, 46, monyet\NN, Binatang\NN ini\PR
+46|44, 52, Binatang\NN ini\PR, Binatang\NN ini\PR
+52|46|44, 54, Binatang\NN ini\PR, mereka\PRP
+41|23|11|3, 56, pemerintah\NNP kota\NNP Delhi\NNP, pemkot\NNP Delhi\NNP
+56|41|23|11|3, 62, pemkot\NNP Delhi\NNP, Pemkot\NN
+75, 76, Gates\NNP dan\CC Buffett\NNP, mereka\PRP
+74, 77, Cina.\NNP, Cina\NNP
+77|74, 79, Cina\NNP, negara\NN itu.\PR
+76|75, 81, mereka\PRP, mereka\PRP
+87, 89, banyak\CD orang\NN, mereka.\PRP
+96, 97, Chen\NNP Guangbiao,\NNP, seorang\NND miliarder\NN
+97|96, 101, seorang\NND miliarder\NN, Dia\PRP
+101|97|96, 103, Dia\PRP, dia\PRP
+103|101|97|96, 104, dia\PRP, nya\PRP
+104|103|101|97|96, 106, nya\PRP, dia\PRP
+106|104|103|101|97|96, 119, dia\PRP, nya.\PRP
+111, 122, Cina\NNP, Cina\NNP
+127, 129, pendiri\NN Facebook\NNP, pendiri\NN Facebook\NNP
+130, 133, Mark\NNP Zuckerberg\NNP, Mark\NNP Zuckerberg\NNP
+133|130, 134, Mark\NNP Zuckerberg\NNP, Pencipta\NN Facebook,\NNP
+134|133|130, 149, Pencipta\NN Facebook,\NNP, Mark\NNP Zuckerberg.\NNP
+149|134|133|130, 151, Mark\NNP Zuckerberg.\NNP, Saya\PRP
+149|134|133|130, 153, Mark\NNP Zuckerberg.\NNP, saya\PRP
+153|149|134|133|130, 154, saya\PRP, saya\PRP
+154|153|149|134|133|130, 155, saya\PRP, nya\PRP
+155|154|153|149|134|133|130, 162, nya\PRP, Zuckerberg\NNP
+162|155|154|153|149|134|133|130, 166, Zuckerberg\NNP, dia\PRP
+166|162|155|154|153|149|134|133|130, 172, dia\PRP, dia\PRP
+172|166|162|155|154|153|149|134|133|130, 177, dia\PRP, dia\PRP
+180, 183, rekan\NN Zuckerberg\NNP, mereka.\PRP
+183|180, 184, mereka.\PRP, Mereka\PRP
+184|183|180, 188, Mereka\PRP, Cameron\NNP dan\CC Tyler\NNP
+193, 207, Jaksa\NN Kalifornia\NNP, Jaksa\NN
+213, 214, Anthony\NNP Thomas\NNP, ahli\NN konstruksi\NN
+214|213, 216, ahli\NN konstruksi\NN, dia\PRP
+214|213, 222, ahli\NN konstruksi\NN, Thomas\NNP
+222|214|213, 225, Thomas\NNP, nya\PRP
+225|222|214|213, 227, nya\PRP, Dia\PRP
+227|225|222|214|213, 230, Dia\PRP, Thomas\NNP
+230|227|225|222|214|213, 235, Thomas\NNP, dia\PRP
+235|230|227|225|222|214|213, 237, dia\PRP, nya.\PRP
+239, 240, Amerika,\NNP, Amerika\NNP
+245, 247, New\NNP Orleans\NNP, daerah\NN itu\PR
+243, 249, batu\NN itu\PR, batu\NN berharga\JJ
+256, 257, Badut\NN politikus\NN, Seorang\NND badut\NN
+257|256, 263, Seorang\NND badut\NN, dia\PRP
+263|257|256, 265, dia\PRP, badut\NN itu,\PR
+265|263|257|256, 266, badut\NN itu,\PR, Tiririca,\NNP
+266|265|263|257|256, 270, Tiririca,\NNP, dia\PRP
+270|266|265|263|257|256, 272, dia\PRP, Tiririca\NNP
+272|270|266|265|263|257|256, 274, Tiririca\NNP, Tiririca\NNP
+274|272|270|266|265|263|257|256, 276, Tiririca\NNP, nya\PRP
+276|274|272|270|266|265|263|257|256, 279, nya\PRP, nya\PRP
+279|276|274|272|270|266|265|263|257|256, 282, nya\PRP, Dia\PRP
+282|279|276|274|272|270|266|265|263|257|256, 284, Dia\PRP, saya\PRP
+284|282|279|276|274|272|270|266|265|263|257|256, 285, saya\PRP, saya\PRP
+285|284|282|279|276|274|272|270|266|265|263|257|256, 286, saya\PRP, saya\PRP
+283, 287, anda\PRP, anda.\PRP
+286|285|284|282|279|276|274|272|270|266|265|263|257|256, 293, saya\PRP, Tiririca\NNP
+293|286|285|284|282|279|276|274|272|270|266|265|263|257|256, 295, Tiririca\NNP, nya\PRP
+295|293|286|285|284|282|279|276|274|272|270|266|265|263|257|256, 296, nya\PRP, dia\PRP
+296|295|293|286|285|284|282|279|276|274|272|270|266|265|263|257|256, 299, dia\PRP, nya\PRP
+303, 304, negara\NN bagian\NN miskin,\JJ, Ceara.\NNP
+300, 305, Francisco\NNP Everardo\NNP Oliveira\NNP Silva\NNP, nya,\PRP
+305|300, 306, nya,\PRP, dia\PRP
+306|305|300, 310, dia\PRP, Dia\PRP
+338, 339, Licia\NNP Ronzulli\NNP, ia\PRP
+339|338, 350, ia\PRP, Ronzulli\NNP
+350|339|338, 354, Ronzulli\NNP, nya.\PRP
+354|350|339|338, 355, nya.\PRP, Ia\PRP
+355|354|350|339|338, 356, Ia\PRP, nya\PRP
+356|355|354|350|339|338, 358, nya\PRP, Saya\PRP
+333, 362, Parlemen\NNP Eropa\NNP, Parlemen\NNP Eropa\NNP
+365, 367, Harry\NNP Potter\NNP, Harry\NNP Potter\NNP
+367|365, 369, Harry\NNP Potter\NNP, nya,\PRP
+370, 375, JK\NNP Rowling,\NNP, JK\NNP Rowling\NNP
+376, 381, Nick\NNP, hantu\NN Nick\NNP
+369|367|365, 384, nya,\PRP, Harry\NNP Potter\NNP
+375|370, 388, JK\NNP Rowling\NNP, JK\NNP Rowling\NNP
+398, 400, Ilyas\NNP Khan\NNP, Ilyas\NNP Khan\NNP
+400|398, 403, Ilyas\NNP Khan\NNP, saya\PRP
+403|400|398, 404, saya\PRP, saya\PRP
+420, 423, presenter\NNP Sarah\NNP Murdoch\NNP, dia\PRP
+423|420, 424, dia\PRP, Saya\PRP
+424|423|420, 426, Saya\PRP, Saya\PRP
+426|424|423|420, 430, Saya\PRP, Dia\PRP
+430|426|424|423|420, 436, Dia\PRP, Sarah\NNP Murdoch.\NNP
+416, 438, Kelsey\NNP Martinovich\NNP, Martinovich\NNP
+438|416, 444, Martinovich\NNP, nya.\PRP
+436|430|426|424|423|420, 445, Sarah\NNP Murdoch.\NNP, Sarah\NNP Murdoch\NNP
+432, 450, Amanda\NNP Ware\NNP, Amanda\NNP
+445|436|430|426|424|423|420, 452, Sarah\NNP Murdoch\NNP, nya.\PRP
+450|432, 454, Amanda\NNP, Ware\NNP
+454|450|432, 456, Ware\NNP, nya\PRP
+452|445|436|430|426|424|423|420, 459, nya.\PRP, Sarah\NNP Murdoch\NNP
+464, 471, Don\NNP Quixote\NNP, Don\NNP Quixote\NNP
+469, 472, segmen\NN, nya\PRP
+465, 473, YouTube\NNP, YouTube.\NNP
+471|464, 477, Don\NNP Quixote\NNP, nya.\PRP
+466, 479, Akademi\NNP Kerajaan\NNP Spanyol\NNP, Akademi\NNP Kerajaan\NNP Spanyol,\NNP
+477|471|464, 482, nya.\PRP, karya\NN itu\PR
+483, 484, 2.000\CD segmen.\NN, Segmen-segmen\NN itu\PR
+481, 489, bahasa\NNP Spanyol,\NNP, bahasa\NNP Spanyol\NNP
+489|481, 492, bahasa\NNP Spanyol\NNP, Bahasa\NNP Spanyol\NNP
+495, 496, sekretaris\NN akademi,\NN, Dario\NNP Villanueva,\NNP
+491, 503, The\NNP Ingenious\NNP Hidalgo\NNP Don\NNP Quixote\NNP of\NNP La\NNP Mancha.\NNP, novel\NN ini\PR
+503|491, 507, novel\NN ini\PR, nya\PRP
+511, 513, YouTube\NNP, YouTube.\NNP
+514, 516, The\NNP Hobbit\NNP, The\NNP Hobbit\NNP
+515, 517, aktor\NN kerdil\JJ, aktor\NN kerdil\JJ
+519, 521, sutradara\NNP Peter\NNP Jackson\NNP, Sutradara\NNP Peter\NNP Jackson\NNP
+521|519, 523, Sutradara\NNP Peter\NNP Jackson\NNP, nya\PRP
+537, 539, juru\NNP bicara\NNP Wingnut\NNP, Juru\NN bicara\NN
+542, 547, scale\FW double\FW, Scale\FW double\FW
+539|537, 554, Juru\NN bicara\NN, si\DT juru\NN bicara.\NN
+554|539|537, 555, si\DT juru\NN bicara.\NN, Dia\PRP
+562, 564, JRR\NNP Tolkien.\NNP, dia\PRP
+564|562, 574, dia\PRP, si\DT pengarang,\NN
+574|564|562, 575, si\DT pengarang,\NN, dia\PRP
+575|574|564|562, 589, dia\PRP, nya.\PRP
+578, 591, The\NNP Hobbits,\NNP, The\NNP Hobbit\NNP
+601, 604, Jackson,\NNP, nya\PRP
+611, 617, Pencuri\NN, Mereka\PRP
+612, 630, Prancis\NNP, Prancis.\NNP
+624, 631, Petani\NNP Roland\NNP Cavaille\NNP, Ia\PRP
+634, 638, Mereka\PRP, mereka\PRP
+631|624, 642, Ia\PRP, Cavaille\NNP
+638|634, 648, mereka\PRP, mereka\PRP
+642|631|624, 656, Cavaille\NNP, Cavaille\NNP
+656|642|631|624, 662, Cavaille\NNP, Cavaille\NNP
+662|656|642|631|624, 666, Cavaille\NNP, ia\PRP
+671, 673, teknisi\NN telepon\NN, nya\PRP
+673|671, 677, nya\PRP, Edward\NNP Pimentel\NNP
+677|673|671, 682, Edward\NNP Pimentel\NNP, Pimentel\NNP
+682|677|673|671, 685, Pimentel\NNP, ia\PRP
+685|682|677|673|671, 687, ia\PRP, Penyanyi\NN amatir\JJ ini\PR
+687|685|682|677|673|671, 689, Penyanyi\NN amatir\JJ ini\PR, dia\PRP
+689|687|685|682|677|673|671, 690, dia\PRP, Ia\PRP
+707, 712, Wayne\NNP Rooney\NNP, ia\PRP
+712|707, 714, ia\PRP, ia\PRP
+714|712|707, 715, ia\PRP, nya\PRP
+715|714|712|707, 716, nya\PRP, Rooney\NNP
+718, 724, Banyak\CD olahragawan\NN, mereka\PRP
+724|718, 727, mereka\PRP, mereka\PRP
+737, 738, Jean\NNP King,\NNP, direktur\NN pengontrolan\NN tembakau\NN
+740, 742, atlet,\NN, nya\PRP
+742|740, 743, nya\PRP, mereka\PRP
+738|737, 749, direktur\NN pengontrolan\NN tembakau\NN, nya.\PRP
+745, 750, Remaja\NN, Mereka\PRP
+750|745, 751, Mereka\PRP, mereka\PRP
+755, 757, atlet\NN, nya\PRP
+760, 762, anak-anak\NN itu\PR, mereka.\PRP
+760, 771, anak-anak\NN itu\PR, anak-anak\NN
+776, 786, Simon\NNP Clark,\NNP, nya.\PRP
+796, 797, bintang\NN idola\NN, mereka\PRP
+797|796, 799, mereka\PRP, Mereka\PRP
+799|797|796, 800, Mereka\PRP, nya.\PRP
+801, 818, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Menkeu\NN
+818|801, 826, Menkeu\NN, nya.\PRP
+840, 848, investor\NN asing\JJ, investor\NN asing\JJ
+854, 858, saya\PRP, Menkeu.\NNP
+858|854, 872, Menkeu.\NNP, nya.\PRP
+860, 873, pemerintah\NN, Pemerintah\NN
+878, 879, Crude\FW Palm\FW Oil\FW, CPO\FW
+881|881, 881, AALI\NNP, AALI\NNP
+887, 888, Direktur\NNP AALI\NNP Santoso,\NNP, nya\PRP
+888|887, 894, nya\PRP, Santoso,\NNP
+881|881|881, 904, AALI\NNP, AALI\NNP
+940, 941, ekonomi\NN RI\NNP, nya\PRP
+923, 943, Halim,\NNP, nya.\PRP
+943|923, 944, nya.\PRP, nya\PRP
+923, 946, Halim,\NNP, Halim\NNP
+950, 951, good\FW corporate\FW governance\FW, GCG\FW
+958, 959, Ikatan\NNP Cendekiawan\NNP Muslim\NNP Indonesia\NNP, ICMI\NNP
+961, 962, pengusaha\NN Indonesia\NNP, nya\PRP
+959|958, 966, ICMI\NNP, ICMI\NNP London\NNP
+967, 968, Ketua,\NN, Muslimin\NNP Anwar,\NNP
+965, 977, Dubes\NN, Dubes\NN
+966|959|958, 979, ICMI\NNP London\NNP, ICMI\NNP London\NNP
+980, 981, pengusaha\NN Indonesia\NNP, nya\PRP
+986, 990, Indonesia\NNP, Indonesia\NNP
+980, 997, pengusaha\NN Indonesia\NNP, pengusaha\NN Indonesia\NNP
+987, 999, Inggris\NNP, Inggris.\NNP
+979|966|959|958, 1001, ICMI\NNP London\NNP, ICMI\NNP London\NNP
+1002, 1003, para\DT pengusaha\NN Indonesia\NNP, nya\PRP
+999|987, 1008, Inggris.\NNP, Inggris,\NNP
+1003|1002, 1010, nya\PRP, pengusaha\NN Indonesia.\NNP
+1012, 1013, Ketua\NNP ICMI\NNP London\NNP, Muslimin\NNP Anwar\NNP
+1008|999|987, 1019, Inggris,\NNP, Inggris\NNP
+1024, 1025, PT\NNP Indonesia\NNP Air\NNP Transport\NNP Tbk\NNP, IATA\NNP
+1029, 1030, Nusa\NNP Tenggara\NNP Timur\NNP, NTT,\NNP
+1031, 1032, Nusa\NNP Tenggara\NNP Barat\NNP, NTB,\NNP
+1040, 1041, Direktur\NNP Utama\NNP IATA,\NNP, Roekman\NNP Prawirasastra\NNP
+1041|1040, 1044, Roekman\NNP Prawirasastra\NNP, Roekman\NNP
+1047, 1048, travel\FW, Mereka\PRP
+1034, 1050, Bali.\NNP, Bali,\NNP
+1030|1029, 1051, NTT,\NNP, NTT,\NNP
+1032|1031, 1052, NTB,\NNP, NTB\NNP
+1033, 1053, Labuhan\NNP Bajo\NNP, Labuhan\NNP Bajo.\NNP
+1048|1047, 1054, Mereka\PRP, travel\FW
+1044|1041|1040, 1056, Roekman\NNP, nya.\PRP
+1056|1044|1041|1040, 1067, nya.\PRP, nya.\PRP
+1067|1056|1044|1041|1040, 1068, nya.\PRP, Roekman\NNP
+1070, 1077, perseroan\NN, perseroan\NN
+1081, 1082, Direktur\NNP Utama\NNP PT\NNP Mirantha\NNP Nuansa\NNP Ayu,\NNP, Henry\NNP Sulysto,\NNP
+1077|1070, 1085, perseroan\NN, perseroan\NN
+1082|1081, 1089, Henry\NNP Sulysto,\NNP, Henry\NNP
+1051|1030|1029, 1090, NTT,\NNP, NTT,\NNP
+1052|1032|1031, 1091, NTB\NNP, NTB\NNP
+1053|1033, 1092, Labuhan\NNP Bajo.\NNP, Labuhan\NNP Bajo\NNP
+1089|1082|1081, 1100, Henry\NNP, Henry.\NNP
+1103, 1119, Mirantha\NNP, Mirantha.\NNP
+1101, 1122, Roekman\NNP, Roekman.\NNP
+1128|1128, 1128, MAYA\NNP, MAYA\NNP
+1128|1128|1128, 1137, MAYA\NNP, nya\PRP
+1137|1128|1128|1128, 1140, nya\PRP, Bank\NNP Mayapada\NNP
+1131, 1141, Obligasi\NNP Bank\NNP Mayapada\NNP II\NNP, Obligasi\NNP Bank\NNP Mayapada\NNP II\NNP
+1162, 1163, Bursa\NNP Efek\NNP Surabaya\NNP, BES\NNP
+1165, 1166, PT\NNP Medco\NNP Energy\NNP Internasional\NNP Tbk\NNP, nya\PRP
+1169, 1170, Perusahaan\NNP Listrik\NNP Negara\NNP, PLN\NNP
+1170|1169, 1172, PLN\NNP, nya\PRP
+1173, 1174, Badan\NNP Pengawas\NNP Pasar\NNP Modal\NNP, Bapepam,\NNP
+1175, 1176, direksi\NN Medco\NNP, nya\PRP
+1170|1169, 1179, PLN\NNP, PLN,\NNP
+1167, 1182, Medco\NNP E\NNP &\NNP P\NNP Malaka\NNP, Medco\NNP
+1225, 1233, dia,\PRP, Ia\PRP
+1235, 1237, dividen\NN, nya\PRP
+1233|1225, 1246, Ia\PRP, nya.\PRP
+1246|1233|1225, 1248, nya.\PRP, dia,\PRP
+1248|1246|1233|1225, 1263, dia,\PRP, dia.\PRP
+1266, 1270, Rozik\NNP B\NNP Soetjipto\NNP, Rozik\NNP B\NNP Soetjipto\NNP
+1263|1248|1246|1233|1225, 1274, dia.\PRP, nya.\PRP
+1274|1263|1248|1246|1233|1225, 1276, nya.\PRP, nya\PRP
+1276|1274|1263|1248|1246|1233|1225, 1283, nya\PRP, Ia\PRP
+1290, 1291, Bank\NNP Central\NNP Asia\NNP, BCA\NNP
+1297, 1298, Wakil\NNP Presiden\NNP BCA\NNP, Jahja\NNP Setiaatmadja\NNP
+1298|1297, 1301, Jahja\NNP Setiaatmadja\NNP, Jahja\NNP
+1302, 1303, Surat\NNP Bank\NNP Indonesia\NNP, SBI.\NNP
+1343, 1344, Penanaman\NN modal\NN asing\NN, PMA\NN
+1348, 1351, Indonesia,\NNP, Indonesia\NNP
+1345, 1356, Malaysia\NNP, Malaysia\NNP
+1351|1348, 1359, Indonesia\NNP, Indonesia\NNP
+1356|1345, 1367, Malaysia\NNP, Malaysia\NNP
+1359|1351|1348, 1382, Indonesia\NNP, Indonesia\NNP
+1367|1356|1345, 1386, Malaysia\NNP, Malaysia\NNP
+1387, 1393, Tan\NNP Yee\NNP Kew\NNP, Ia\PRP
+1417, 1418, PT\NNP Astra\NNP Agro\NNP Lestari\NNP, AALI\NNP
+1424, 1425, TBS\NN, tandan\NN buah\NN segar\JJ
+1434, 1435, Direktur\NNP AALI,\NNP, Julie\NNP Syaftari\NNP
+1435|1434, 1438, Julie\NNP Syaftari\NNP, Dia\PRP
+1418|1417, 1448, AALI\NNP, AALI\NNP
+1438|1435|1434, 1454, Dia\PRP, nya.\PRP
+1467, 1468, Bank\NN Perkreditan\NN Rakyat\NN, BPR.\NN
+1471, 1472, Kepala\NN Eksekutif\NN, Krisna\NNP Wijaya\NNP
+1472|1471, 1475, Krisna\NNP Wijaya\NNP, Dia\PRP
+1497, 1498, Rapat\NN Dewan\NN Gubernur\NN, RDG\NN
+1501, 1502, Lembaga\NN pemeringkat\NN internasional\JJ, Fitch\NNP Ratings,\NNP
+1507, 1508, PT\NNP Bank\NNP Pan\NNP Indonesia\NNP Tbk\NNP, Panin\NNP
+1510, 1511, Fitch\NNP, nya\PRP
+1508|1507, 1521, Panin\NNP, Panin\NNP
+1511|1510, 1523, nya\PRP, Fitch\NNP
+1523|1511|1510, 1534, Fitch\NNP, Fitch\NNP
+1540, 1541, Australia\NNP and\NNP New\NNP Zealand\NNP, ANZ\NNP
+1521|1508|1507, 1543, Panin\NNP, Panin\NNP
+1541|1540, 1548, ANZ\NNP, ANZ\NNP
+1534|1523|1511|1510, 1551, Fitch\NNP, Fitch\NNP
+1551|1534|1523|1511|1510, 1573, Fitch\NNP, Fitch,\NNP
+1543|1521|1508|1507, 1574, Panin\NNP, Panin\NNP
+1649, 1654, Panin\NNP, Panin\NNP
+1654|1649, 1660, Panin\NNP, PT\NNP Panin\NNP Life\NNP Tbk\NNP
+1660|1654|1649, 1672, PT\NNP Panin\NNP Life\NNP Tbk\NNP, Panin\NNP
+1672|1660|1654|1649, 1673, Panin\NNP, nya\PRP
+1675, 1676, UKM\NN, usaha\NN kecil\JJ dan\CC menengah,\JJ
+1680, 1681, Direktur\NNP Utama\NNP PT\NNP Bank\NNP Mandiri\NNP, Agus\NNP D.W.\NNP Martowardojo\NNP
+1682, 1687, Bank\NNP Mandiri\NNP, kami\PRP
+1681|1680, 1692, Agus\NNP D.W.\NNP Martowardojo\NNP, nya\PRP
+1694, 1695, Menteri\NNP Negara\NNP BUMN,\NNP, Sugiharto,\NNP
+1692|1681|1680, 1698, nya\PRP, Ia\PRP
+1698|1692|1681|1680, 1704, Ia\PRP, nya,\PRP
+1687|1682, 1706, kami\PRP, Bank\NNP Mandiri.\NNP
+1706|1687|1682, 1709, Bank\NNP Mandiri.\NNP, bank\NNP Mandiri\NNP
+1709|1706|1687|1682, 1712, bank\NNP Mandiri\NNP, bank\NNP Mandiri\NNP
+1712|1709|1706|1687|1682, 1715, bank\NNP Mandiri\NNP, Bank\NNP Mandiri\NNP
+1707, 1720, Agus\NNP, nya.\PRP
+1720|1707, 1723, nya.\PRP, Agus\NNP
+1723|1720|1707, 1724, Agus\NNP, nya\PRP
+1724|1723|1720|1707, 1726, nya\PRP, nya.\PRP
+1728, 1729, Menteri\NNP Negara\NNP BUMN,\NNP, Sugiharto,\NNP
+1715|1712|1709|1706|1687|1682, 1730, Bank\NNP Mandiri\NNP, Bank\NNP Mandiri\NNP
+1730|1715|1712|1709|1706|1687|1682, 1731, Bank\NNP Mandiri\NNP, nya\PRP
+1731|1730|1715|1712|1709|1706|1687|1682, 1739, nya\PRP, Bank\NNP Mandiri\NNP
+1744, 1745, Kepala\NNP Bappenas,\NNP, Paskah\NNP Suzetta\NNP
+1748, 1749, Presiden\NNP Bank\NNP Dunia,\NNP, Paul\NNP Wolfowitz\NNP
+1745|1744, 1757, Paskah\NNP Suzetta\NNP, Pak\NN Menteri\NN
+1749|1748, 1758, Paul\NNP Wolfowitz\NNP, Paul\NNP Wolfowitz,\NNP
+1763, 1764, Sekretaris\NNP Utama\NNP Bappenas,\NNP, Syahrial\NNP Loetan\NNP
+1764|1763, 1767, Syahrial\NNP Loetan\NNP, Dia\PRP
+1757|1745|1744, 1769, Pak\NN Menteri\NN, Meneg\NN PPN\NN
+1759, 1777, James\NNP Adams,\NNP, Pak\NNP Adams\NNP
+1777|1759, 1779, Pak\NNP Adams\NNP, dia\PRP
+1771, 1780, Indonesia\NNP, Indonesia\NNP
+1781, 1782, IDA\FW, International\FW Development\FW Assistance\FW
+1780|1771, 1784, Indonesia\NNP, kita\PRP
+1784|1780|1771, 1786, kita\PRP, Kita\PRP
+1767|1764|1763, 1788, Dia\PRP, dia\PRP
+1782|1781, 1792, International\FW Development\FW Assistance\FW, IDA\FW
+1786|1784|1780|1771, 1795, Kita\PRP, Kita\PRP
+1795|1786|1784|1780|1771, 1797, Kita\PRP, kita\PRP
+1789, 1798, Bank\NNP Dunia\NNP, Bank\NNP Dunia,\NNP
+1788|1767|1764|1763, 1799, dia\PRP, nya.\PRP
+1813, 1814, Policy\FW and\FW Human\FW Resource\FW Development\FW, PHRD\FW
+1816, 1818, sistem\NN administrasi\NN perpajakan\NN, Sistem\NN administrasi\NN perpajakan\NN
+1811, 1823, Jepang\NNP, Jepang\NNP
+1824, 1825, pemerintah\NNP Indonesia\NNP, mereka,\PRP
+1832, 1833, Dirjen\NNP Pajak\NNP Depkeu,\NNP, Darmin\NNP Nasution\NNP
+1833|1832, 1834, Darmin\NNP Nasution\NNP, nya\PRP
+1834|1833|1832, 1837, nya\PRP, nya.\PRP
+1837|1834|1833|1832, 1847, nya.\PRP, Darmin.\NNP
+1839, 1849, Jepang\NNP, Jepang\NNP
+1829, 1850, Bank\NNP Dunia\NNP, Bank\NNP Dunia\NNP
+1860, 1863, pemerintah\NNP Indonesia\NNP, Pemerintah\NN
+1878, 1879, Gubernur\NNP BI,\NNP, Burhanuddin\NNP Abdullah\NNP
+1880, 1881, rapat\NN koordinasi\NN terbatas\JJ, rakortas\NN
+1879|1878, 1886, Burhanuddin\NNP Abdullah\NNP, Dia\PRP
+1890, 1891, Pinjaman\NN Komersial\JJ Luar\NN Negeri\NN, PKLN.\NN
+1879|1878, 1897, Burhanuddin\NNP Abdullah\NNP, Gubernur.\NN
+1897|1879|1878, 1898, Gubernur.\NN, Burhanuddin\NNP
+1916, 1917, PT\NNP Astra\NNP Otoparts\NNP Tbk\NNP, nya\PRP
+1918, 1925, PT\NNP Exedy\NNP Indonesia\NNP, Exedy\NNP Corporation\NNP
+1917|1916, 1927, nya\PRP, Kami\PRP
+1917|1916, 1930, nya\PRP, PT\NNP Astra\NNP Otoparts\NNP
+1925|1918, 1931, Exedy\NNP Corporation\NNP, PT\NNP Exedy\NNP Indonesia\NNP
+1931|1925|1918, 1932, PT\NNP Exedy\NNP Indonesia\NNP, Exedy\NNP Corporation,\NNP
+1933, 1934, Sekretaris\NNP Perusahaan\NNP Astra\NNP Otoparts,\NNP, Kartina\NNP Rahayu\NNP
+1934|1933, 1937, Kartina\NNP Rahayu\NNP, dia,\PRP
+1937|1934|1933, 1940, dia,\PRP, Dia\PRP
+1940|1937|1934|1933, 1952, Dia\PRP, nya.\PRP
+1955, 1956, bea\NN masuk\NN, BM\NN
+1953, 1964, Menkeu\NNP Sri\NNP Mulyani\NNP Indrawati\NNP, Dia\PRP
+1975, 1976, Perusahaan\NN alat\NN berat\JJ, PT\NNP United\NNP Tractors\NNP Tbk\NNP
+1977|1977, 1977, UNTR\NNP, UNTR\NNP
+1982, 1983, Dynamics\NNP Acres\NNP Sdn\NNP Bhd\NNP, DASB\NNP
+1984, 1985, perusahaan\NN pertambangan\NN batu\NN bara\NN, PT\NNP Dasa\NNP Eka\NNP Jasatama\NNP
+1985|1984, 1986, PT\NNP Dasa\NNP Eka\NNP Jasatama\NNP, DEJ\NNP
+1983|1982, 1996, DASB\NNP, DASB\NNP
+1999, 2000, Wakil\NNP Presdir\NNP UNTR,\NNP, Djoko\NNP Pranoto,\NNP
+2000|1999, 2001, Djoko\NNP Pranoto,\NNP, nya\PRP
+2002, 2003, Bursa\NNP Efek\NNP Surabaya\NNP, BES\NNP
+2001|2000|1999, 2006, nya\PRP, nya,\PRP
+2006|2001|2000|1999, 2022, nya,\PRP, dia,\PRP
+1980, 2023, PT\NNP Pamapersada\NNP Nusantara\NNP Pama\NNP, Pama\NNP
+1986|1985|1984, 2026, DEJ\NNP, DEJ.\NNP
+2023|1980, 2029, Pama\NNP, Pama\NNP
+2022|2006|2001|2000|1999, 2033, dia,\PRP, nya.\PRP
+2033|2022|2006|2001|2000|1999, 2034, nya.\PRP, nya,\PRP
+2029|2023|1980, 2040, Pama\NNP, Pama\NNP
+2045, 2046, Perusahaan\NN farmasi\NN, PT\NNP Tempo\NNP Scan\NNP Pacific\NNP Tbk\NNP
+2046|2045, 2047, PT\NNP Tempo\NNP Scan\NNP Pacific\NNP Tbk\NNP, TSPC\NNP
+2047|2046|2045, 2050, TSPC\NNP, nya\PRP
+2050|2047|2046|2045, 2061, nya\PRP, nya\PRP
+2084, 2085, PT\NNP Bursa\NNP Efek\NNP Surabaya\NNP, BES\NNP
+2083, 2086, Direktur\NNP Utama\NNP, Bastian\NNP Purnama\NNP
+2086|2083, 2089, Bastian\NNP Purnama\NNP, nya\PRP
+2168, 2169, Asian\NNP Development\NNP Bank\NNP, ADB\NNP
+2162, 2177, Menteri\NNP Keuangan\NNP Indonesia\NNP Sri\NNP Mulyani\NNP, direktur\NN eksekutif\NN
+2183, 2185, Jepang\NNP, nya\PRP
+2177|2162, 2197, direktur\NN eksekutif\NN, nya.\PRP
+2185|2183, 2200, nya\PRP, Jepang\NNP
+2209, 2215, Perusahaan\NN transportasi\NN laut\NN, PT\NNP Humpuss\NNP Intermoda\NNP Transportasi\NNP Tbk\NNP
+2215|2209, 2216, PT\NNP Humpuss\NNP Intermoda\NNP Transportasi\NNP Tbk\NNP, HITS\NNP
+2216|2215|2209, 2221, HITS\NNP, nya\PRP
+2221|2216|2215|2209, 2227, nya\PRP, perseroan\NN
+2228, 2229, armada\NN kapal\NN tersebut\PR, nya\PRP
+2227|2221|2216|2215|2209, 2232, perseroan\NN, Perseroan\NN
+2230, 2235, kapal\NN, pembelian\NN kapal\NN tersebut,\PR
+2232|2227|2221|2216|2215|2209, 2236, Perseroan\NN, perseroan\NN
+2236|2232|2227|2221|2216|2215|2209, 2237, perseroan\NN, nya.\PRP
+2237|2236|2232|2227|2221|2216|2215|2209, 2238, nya.\PRP, Perseroan\NN
+2253, 2254, Bank\NNP Indonesia\NNP, BI,\NNP
+2252, 2255, Deputi\NNP Gubernur\NNP, Hartadi\NNP A\NNP Sarwono\NNP
+2255|2252, 2258, Hartadi\NNP A\NNP Sarwono\NNP, Ia\PRP
+2258|2255|2252, 2266, Ia\PRP, Hartadi\NNP
+2266|2258|2255|2252, 2270, Hartadi\NNP, Hartadi\NNP
+2271, 2274, industri\NN TPT\NN, nya\PRP
+2270|2266|2258|2255|2252, 2286, Hartadi\NNP, Hartadi\NNP
+2289, 2290, industri\NN, nya\PRP
+2291, 2295, pemerintah\NN, pemerintah\NN
+2294, 2300, industri\NN TPT.\NN, industri\NN TPT\NN
+2286|2270|2266|2258|2255|2252, 2303, Hartadi\NNP, Ia\PRP
+2311, 2316, Dirjend\NNP Industri\NNP Logam\NNP Mesin\NNP Tekstil\NNP Departemen\NNP Perindustrian\NNP Ansari\NNP Bukhari\NNP, Ansari\NNP
+2316|2311, 2323, Ansari\NNP, Ansari\NNP
+2332, 2333, Produk\NN domestik\JJ Bruto\NN, PDB\NN
+2330, 2337, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Sri\NNP Mulyani\NNP
+2333|2332, 2343, PDB\NN, PDB\NN
+2343|2333|2332, 2347, PDB\NN, PDB\NN
+2350, 2351, Indeks\NNP Harga\NNP Saham\NNP Gabungan\NNP, IHSG\NNP
+2352, 2353, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ\NNP
+2337|2330, 2375, Sri\NNP Mulyani\NNP, Mulyani.\NNP
+2377, 2378, PT\NNP Astra\NNP Agro\NNP Lestari\NNP Tbk\NNP, AALI\NNP
+2393, 2394, Direktur\NNP AALI,\NNP, Santosa\NNP
+2396, 2397, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ,\NNP
+2394|2393, 2399, Santosa\NNP, nya\PRP
+2424, 2425, Bank\NNP Indonesia\NNP, BI\NNP
+2423, 2426, Deputi\NNP Senior\NNP, Miranda\NNP S.\NNP Goeltom\NNP
+2426|2423, 2436, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2436|2426|2423, 2450, Miranda\NNP, Miranda\NNP
+2450|2436|2426|2423, 2464, Miranda\NNP, nya.\PRP
+2464|2450|2436|2426|2423, 2466, nya.\PRP, nya,\PRP
+2469, 2470, Deputi\NNP Gubernur\NNP Senior\NNP BI,\NNP, Miranda\NNP S.\NNP Goeltom\NNP
+2470|2469, 2480, Miranda\NNP S.\NNP Goeltom\NNP, Miranda\NNP
+2480|2470|2469, 2488, Miranda\NNP, nya,\PRP
+2511, 2512, teknologi\NN informasi\NN, TI\NN
+2510, 2517, Bank\NNP Mandiri\NNP, nya.\PRP
+2517|2510, 2520, nya.\PRP, kami,\PRP
+2524, 2525, Direktur\NNP Teknologi\NNP dan\NNP Operasional\NNP Bank\NNP Mandiri,\NNP, Sasmita\NNP
+2525|2524, 2528, Sasmita\NNP, dia,\PRP
+2520|2517|2510, 2530, kami,\PRP, Bank\NNP Mandiri\NNP
+2528|2525|2524, 2535, dia,\PRP, Ia\PRP
+2535|2528|2525|2524, 2545, Ia\PRP, nya.\PRP
+2546, 2554, Bank\NNP Mandiri\NNP, nya\PRP
+2565, 2577, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP Indrawati\NNP, Menkeu\NN
+2577|2565, 2583, Menkeu\NN, Menkeu,\NN
+2583|2577|2565, 2592, Menkeu,\NN, nya\PRP
+2608, 2616, pemerintah\NN, pemerintah\NN
+2603, 2620, Menko\NNP Perekonomian\NNP Boediono\NNP, nya.\PRP
+2621, 2626, Boediono,\NNP, Wapres\NN
+2626|2621, 2630, Wapres\NN, nya.\PRP
+2632, 2640, Menkeu\NN, nya,\PRP
+2651, 2652, Pemeringkat\NNP Efek\NNP Indonesia\NNP, Pefindo\NNP
+2654, 2655, PT\NNP Truba\NNP Jaya\NNP Engineering\NNP, TRJE\NNP
+2668, 2669, analis\NNP Pefindo\NNP Ronald\NNP Hertanto,\NNP, nya\PRP
+2669|2668, 2672, nya\PRP, dia,\PRP
+2655|2654, 2677, TRJE\NNP, TRJE\NNP
+2690, 2691, Jurong\NNP Engineering\NNP Limited\NNP of\NNP Singapore\NNP, JEL\NNP
+2677|2655|2654, 2693, TRJE\NNP, TRJE\NNP
+2693|2677|2655|2654, 2697, TRJE\NNP, TRJE\NNP
+2691|2690, 2703, JEL\NNP, JEL.\NNP
+2706, 2707, PT\NNP Truba\NNP Alam\NNP Manunggal\NNP Engineering\NNP Tbk\NNP, TRBA,\NNP
+2717, 2718, Bank\NNP Pembangunan\NNP Asia\NNP, ADB\NNP
+2718|2717, 2725, ADB\NNP, ADB\NNP
+2731, 2732, clean\FW development\FW mechanism\FW, CDM,\FW
+2733, 2734, Direktur\NNP Pendanaan\NNP Luar\NNP Negeri\NNP Multilateral\NNP Bappenas,\NNP, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP
+2734|2733, 2735, RM\NNP Dewo\NNP Broto\NNP Joko\NNP P.\NNP, nya\PRP
+2735|2734|2733, 2738, nya\PRP, nya,\PRP
+2739, 2740, Renewable\FW Energy\FW Development\FW, RED\FW
+2738|2735|2734|2733, 2744, nya,\PRP, nya,\PRP
+2746, 2747, Land\FW Aquisition\FW and\FW Resettlement\FW Plan\FW, LARP\FW
+2744|2738|2735|2734|2733, 2752, nya,\PRP, nya\PRP
+2742, 2756, PLTA\NNP Poigar\NNP, PLTA\NN tersebut\PR
+2725|2718|2717, 2760, ADB\NNP, ADB\NNP
+2752|2744|2738|2735|2734|2733, 2767, nya\PRP, Dewo.\NNP
+2776, 2777, Sekretaris\NNP Perusahaan\NNP Bakrie\NNP Sumatera\NNP Plantations\NNP Tbk,\NNP, Fitri\NNP Barnas,\NNP
+2777|2776, 2778, Fitri\NNP Barnas,\NNP, nya\PRP
+2778|2777|2776, 2786, nya\PRP, ia\PRP
+2774, 2789, PT\NNP Nibung\NNP Arthamulia\NNP, PT\NNP Nibung\NNP Arthamulia\NNP
+2790, 2791, PT\NNP Perusahaan\NNP Gas\NNP Negara\NNP Persero\NNP Tbk\NNP, PGAS\NNP
+2794, 2795, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ.\NNP
+2816, 2817, harga\NN jual\NN eceran\NN, HJE\NN
+2815, 2834, Dirjen\NNP Bea\NNP dan\NNP Cukai\NNP Departemen\NNP Keuangan\NNP Anwar\NNP Suprijadi\NNP, Anwar\NNP Suprijadi\NNP
+2834|2815, 2837, Anwar\NNP Suprijadi\NNP, Anwar\NNP
+2850, 2858, Pemerintah\NN, pemerintah\NN
+2857, 2866, DPR\NNP, DPR\NNP
+2837|2834|2815, 2869, Anwar\NNP, nya.\PRP
+2869|2837|2834|2815, 2870, nya.\PRP, dia,\PRP
+2870|2869|2837|2834|2815, 2881, dia,\PRP, nya.\PRP
+2882|2882, 2882, Ia\PRP, Ia\PRP
+2895, 2896, Issuer\FW Default\FW Ratings\FW, IDRs\FW
+2888, 2902, Lembaga\NNP pemeringkat\NNP internasional\NNP Fitch\NNP Ratings,\NNP, Fitch\NNP
+2920, 2925, Ai\NNP Ling\NNP Ngiam,\NNP, nya.\PRP
+2942, 2943, Indonesia\NNP, nya\PRP
+2925|2920, 2950, nya.\PRP, nya.\PRP
+2950|2925|2920, 2951, nya.\PRP, nya,\PRP
+3021, 3022, Perjanjian\NN Kemitraan\NN Ekonomi\NN, Economic\FW Partnership\FW Agreement\FW
+3025, 3026, Satu\CD Jendela\NN Nasional\JJ, National\FW Single\FW Window\FW
+3039, 3040, penanaman\NN modal\NN asing\NN langsung\RB, PMA,\NN
+3047, 3048, Badan\NNP Usaha\NNP Pembiayaan\NNP Pembangunan\NNP Hutan\NNP, BUPPH\NNP
+3052, 3053, Dana\NN Reboisasi\NN, DR\NN
+3056, 3057, pembentukan\NN BUPPH\NNP, nya\PRP
+3059, 3065, Menteri\NNP Kehutanan\NNP MS\NNP Ka'ban,\NNP, Ka'ban\NNP
+3066, 3067, surat\NN keputusan\NN bersama\JJ, SKB\NN
+3072, 3073, Badan\NNP Layanan\NNP Umum\NNP, BLU\NNP
+3065|3059, 3085, Ka'ban\NNP, nya.\PRP
+3085|3065|3059, 3086, nya.\PRP, dia,\PRP
+3086|3085|3065|3059, 3101, dia,\PRP, Ka'ban\NNP
+3101|3086|3085|3065|3059, 3113, Ka'ban\NNP, Ka'ban,\NNP
+3113|3101|3086|3085|3065|3059, 3121, Ka'ban,\NNP, nya.\PRP
+3122, 3123, PT\NNP Telekomunikasi\NNP Indonesia\NNP, Telkom\NNP
+3124, 3125, New\NNP York\NNP Sock\NNP Exchange\NNP, NYSE\NNP
+3132, 3133, Harsya\NNP Denny\NNP Suryo,\NNP, nya\PRP
+3133|3132, 3147, nya\PRP, nya,\PRP
+3174, 3175, Perusahaan\NN pelayaran\NN, PT\NNP Arpeni\NNP Pratama\NNP Ocean\NNP Line\NNP Tbk\NNP
+3175|3174, 3176, PT\NNP Arpeni\NNP Pratama\NNP Ocean\NNP Line\NNP Tbk\NNP, APOL\NNP
+3182, 3183, Sekretaris\NNP Perusahaan\NNP, Ronald\NNP Nangoi,\NNP
+3183|3182, 3184, Ronald\NNP Nangoi,\NNP, nya\PRP
+3185, 3186, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ\NNP
+3184|3183|3182, 3189, nya\PRP, nya,\PRP
+3189|3184|3183|3182, 3199, nya,\PRP, dia,\PRP
+3221, 3224, Country\FW Director\FW, Andrew\NNP Steer\NNP
+3224|3221, 3228, Andrew\NNP Steer\NNP, Saya\PRP
+3228|3224|3221, 3232, Saya\PRP, Saya\PRP
+3232|3228|3224|3221, 3234, Saya\PRP, Saya\PRP
+3237, 3242, Andrew\NNP Steer\NNP, Andrew\NNP Steer\NNP
+3242|3237, 3248, Andrew\NNP Steer\NNP, Saya\PRP
+3248|3242|3237, 3249, Saya\PRP, saya,\PRP
+3249|3248|3242|3237, 3250, saya,\PRP, nya.\PRP
+3251, 3264, Andrew\NNP, saya\PRP
+3264|3251, 3266, saya\PRP, dia.\PRP
+3268, 3269, Andrew\NNP, nya\PRP
+3269|3268, 3273, nya\PRP, Saya\PRP
+3273|3269|3268, 3275, Saya\PRP, saya\PRP
+3279, 3280, Indonesia,\NNP, Indonesia\NNP
+3280|3279, 3282, Indonesia\NNP, Indonesia\NNP
+3275|3273|3269|3268, 3284, saya\PRP, nya.\PRP
+3284|3275|3273|3269|3268, 3285, nya.\PRP, Dia\PRP
+3282|3280|3279, 3286, Indonesia\NNP, Indonesia\NNP
+3285|3284|3275|3273|3269|3268, 3291, Dia\PRP, nya.\PRP
+3291|3285|3284|3275|3273|3269|3268, 3292, nya.\PRP, nya,\PRP
+3286|3282|3280|3279, 3296, Indonesia\NNP, Indonesia\NNP
+3299, 3300, Badan\NNP Perencana\NNP Pembangunan\NNP Nasional\NNP, Bappenas\NNP
+3301, 3302, luar\NN negeri\NN, LN\NN
+3300|3299, 3310, Bappenas\NNP, Bappenas\NNP
+3310|3300|3299, 3316, Bappenas\NNP, bappenas\NNP
+3319, 3320, Kepala\NNP Bappenas,\NNP, Paskah\NNP Suzetta\NNP
+3320|3319, 3325, Paskah\NNP Suzetta\NNP, nya.\PRP
+3325|3320|3319, 3328, nya.\PRP, nya,\PRP
+3368, 3369, Bank\NNP Indonesia\NNP, BI\NNP
+3380, 3381, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani.\NNP, Menteri\NN Keuangan\NN
+3384, 3385, Sertifikat\NNP Bank\NNP Indonesia\NNP, SBI\NNP
+3381|3380, 3400, Menteri\NN Keuangan\NN, Menkeu\NN
+3405, 3406, negara\NN maju\NN itu,\PR, nya\PRP
+3400|3381|3380, 3417, Menkeu\NN, nya,\PRP
+3436, 3437, Kepala\NNP Biro\NNP Humas\NNP Depkeu,\NNP, Samsuar\NNP Said,\NNP
+3458, 3459, PT\NNP Bursa\NNP Efek\NNP Jakarta\NNP, BEJ\NNP
+3478, 3479, Rapat\NN Dewan\NN Gubernur\NN, RDG\NN
+3480, 3481, Bank\NNP Indonesia\NNP, BI,\NNP
+3490, 3492, Direktur\NNP Perencanaan\NNP Strategis\NNP, Budi\NNP Mulya\NNP
+3535, 3536, Net\FW Interest\FW Income\FW, NII,\FW
+3570, 3580, Menkeu\NNP Sri\NNP Mulyani\NNP Indrawati\NNP, saya\PRP
+3580|3570, 3584, saya\PRP, Menkeu\NN
+3584|3580|3570, 3587, Menkeu\NN, Dia\PRP
+3587|3584|3580|3570, 3597, Dia\PRP, nya.\PRP
+3597|3587|3584|3580|3570, 3599, nya.\PRP, nya,\PRP
+3599|3597|3587|3584|3580|3570, 3610, nya,\PRP, nya.\PRP
+3612, 3622, Dirjen\NNP Perbendaharaan\NNP Depkeu\NNP Herry\NNP Purnomo\NNP, nya\PRP
+3612, 3627, Dirjen\NNP Perbendaharaan\NNP Depkeu\NNP Herry\NNP Purnomo\NNP, Herry\NNP
+3627|3612, 3628, Herry\NNP, nya\PRP
+3628|3627|3612, 3631, nya\PRP, dia\PRP
+3636, 3637, Dana\NN Alokasi\NN Umum\JJ, DAU\NN
+3631|3628|3627|3612, 3646, dia\PRP, nya.\PRP
+3664, 3665, Direktur\NNP Utama\NNP Global\NNP Mediacom\NNP Tbk,\NNP, Hary\NNP Tanoesoedibjo,\NNP
+3665|3664, 3666, Hary\NNP Tanoesoedibjo,\NNP, nya\PRP
+3666|3665|3664, 3670, nya\PRP, nya,\PRP
+3680, 3681, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ\NNP
+3700, 3701, Sertifikat\NNP Bank\NNP Indonesia\NNP, SBI,\NNP
+3711, 3712, Analis\NNP valas\NNP PT\NNP Bank\NNP Saudara,\NNP, Ruri\NNP Nova\NNP
+3720, 3722, investor\NN asing\JJ, nya\PRP
+3723, 3724, Sertifikat\NNP Bank\NNP Indonesia\NNP, SBI,\NNP
+3725, 3726, Surat\NN Utang\NN Negara\NN, SUN,\NN
+3712|3711, 3734, Ruri\NNP Nova\NNP, nya.\PRP
+3734|3712|3711, 3735, nya.\PRP, dia,\PRP
+3742, 3743, The\NNP Fed\NNP, nya\PRP
+3735|3734|3712|3711, 3750, dia,\PRP, nya.\PRP
+3750|3735|3734|3712|3711, 3751, nya.\PRP, Ia\PRP
+3758, 3759, rupiah,\NN, nya\PRP
+3751|3750|3735|3734|3712|3711, 3761, Ia\PRP, nya.\PRP
+3761|3751|3750|3735|3734|3712|3711, 3763, nya.\PRP, dia\PRP
+3763|3761|3751|3750|3735|3734|3712|3711, 3771, dia\PRP, nya.\PRP
+3771|3763|3761|3751|3750|3735|3734|3712|3711, 3773, nya.\PRP, dia\PRP
+3773|3771|3763|3761|3751|3750|3735|3734|3712|3711, 3779, dia\PRP, nya.\PRP
+3780, 3781, PT\NNP Indofood\NNP Sukses\NNP Makmur\NNP Tbk\NNP, Indofood\NNP
+3783, 3784, PT\NNP London\NNP Sumatera\NNP Plantations\NNP tbk\NNP, Lonsum\NNP
+3786, 3787, PT\NNP Salim\NNP Ivomas\NNP Pratama\NNP, SIMP\NNP
+3788, 3789, Indofood\NNP Agri\NNP Resources\NNP Ltd\NNP, Indoagri\NNP
+3799, 3800, Sekretaris\NNP Perusahaan\NNP Indofood,\NNP, Clara\NNP Suraya,\NNP
+3800|3799, 3808, Clara\NNP Suraya,\NNP, nya.\PRP
+3809|3809, 3809, Dia\PRP, Dia\PRP
+3800|3799, 3814, Clara\NNP Suraya,\NNP, Clara\NNP
+3814|3800|3799, 3827, Clara\NNP, nya.\PRP
+3815, 3829, Salim\NNP Ivomas\NNP, Salim\NNP Ivomas\NNP
+3829|3815, 3834, Salim\NNP Ivomas\NNP, Salim\NNP Ivomas\NNP
+3824, 3848, sumber\NN internal\JJ grup\NN, PT\NNP Chandra\NNP Asri\NNP
+3850, 3851, Direktur\NNP Utama\NNP Barito\NNP Pacific,\NNP, Anton\NNP BS\NNP Hudyana\NNP
+3851|3850, 3854, Anton\NNP BS\NNP Hudyana\NNP, nya\PRP
+3863, 3864, PT\NNP Inter\NNP Petrindo\NNP Inti\NNP Citra\NNP, IPIC\NNP
+3870, 3871, Conocophilips\NNP Ramba\NNP Ltd\NNP, CPRL\NNP
+3871|3870, 3876, CPRL\NNP, CPRL\NNP
+3876|3871|3870, 3878, CPRL\NNP, nya\PRP
+3869, 3885, PT\NNP Elnusa\NNP, Elnusa\NNP
+3885|3869, 3890, Elnusa\NNP, Elnusa\NNP
+3893, 3894, Perseroan\NN, nya\PRP
+3916, 3917, PSC\FW, Production\FW Sharing\FW Contractor,\FW
+3920, 3930, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Sri\NNP Mulyani\NNP
+3939, 3954, Menkeu\NN, Menkeu,\NN
+3977, 3978, PT\NNP Mitra\NNP Inti\NNP Sejati\NNP Plantation\NNP, MISP\NNP
+3982, 3983, PT\NNP Salim\NNP Ivomas\NNP Pratama\NNP, SIMP\NNP
+3977, 3988, PT\NNP Mitra\NNP Inti\NNP Sejati\NNP Plantation\NNP, PT\NNP Mitra\NNP
+3990, 3991, Sekretaris\NNP Perusahaan\NNP Indofood\NNP Werianty\NNP, nya\PRP
+3991|3990, 3993, nya\PRP, BEJ\NNP
+4005, 4006, PT\NNP Bank\NNP Negara\NNP Indonesia\NNP Persero\NNP Tbk.\NNP, BBNI\NNP
+4008, 4009, PT\NNP BNI\NNP Multifinance\NNP, BNIMF\NNP
+4009|4008, 4020, BNIMF\NNP, BNIMF\NNP
+4014, 4029, Wakil\NNP Pimpinan\NNP BNI\NNP Firman\NNP Wibowo\NNP, nya.\PRP
+4042, 4043, Bapepam\NNP -\NNP LK\NNP, nya\PRP
+4042, 4050, Bapepam\NNP -\NNP LK\NNP, Bapepam\NNP -\NNP LK\NNP
+4058, 4059, Pembatasan\NN Kegiatan\NN Usaha\NN, PKU.\NN
+4087, 4088, PT\NNP Truba\NNP Alam\NNP Manunggal\NNP Engineering\NNP, TRUB\NNP
+4097, 4098, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ,\NNP
+4105, 4106, PT\NNP Berlian\NNP Laju\NNP Tanker\NNP Tbk\NNP, BLTA\NNP
+4107, 4109, Chembulk\NNP Tankers\NNP LLC\NNP, Chembulk\NNP Tankers\NNP
+4118, 4119, Direktur\NNP Keuangan\NNP BLTA,\NNP, Kevin\NNP Wong\NNP
+4119|4118, 4122, Kevin\NNP Wong\NNP, Kevin\NNP
+4122|4119|4118, 4128, Kevin\NNP, dia,\PRP
+4138, 4139, DWT\NND, dry\NND weigh\NND ton\NND
+4128|4122|4119|4118, 4142, dia,\PRP, nya.\PRP
+4142|4128|4122|4119|4118, 4143, nya.\PRP, nya\PRP
+4154, 4156, perseroan\NN, nya\PRP
+4152, 4158, Kevin\NNP, Dia\PRP
+4159, 4161, perseroan\NN, nya\PRP
+4159, 4166, perseroan\NN, perseroan\NN
+4168|4168, 4168, nya,\PRP, nya,\PRP
+4158|4152, 4170, Dia\PRP, nya.\PRP
+4171, 4172, CPO\FW, Crude\FW Palm\FW Oil\FW
+4173, 4174, PT\NNP Astra\NNP Agro\NNP Lestari\NNP Tbk\NNP, AALI\NNP
+4182, 4183, Direktur\NNP AALI\NNP Santosa,\NNP, nya\PRP
+4187, 4188, TBS\NN, Tandan\NN Buah\NN Segar\NN
+4183|4182, 4194, nya\PRP, nya.\PRP
+4194|4183|4182, 4196, nya.\PRP, dia,\PRP
+4219, 4223, Pefindo\NNP, Pefindo,\NNP
+4273, 4274, Aninda\NNP Mitra,\NNP, analis\NNP Moody\NNP '\NNP s\NNP
+4273, 4276, Aninda\NNP Mitra,\NNP, Mitra\NNP
+4288, 4297, Pinnacle\NNP Limited,\NNP, Pinnacle\NNP
+4300, 4301, Direktur\NNP Toba\NNP Pulp,\NNP, Firman\NNP Mulya\NNP Nauli\NNP
+4290, 4305, PT\NNP Toba\NNP Pulp\NNP Lestari\NNP Tbk.\NNP, Toba\NNP Pulp\NNP
+4297|4288, 4306, Pinnacle\NNP, Pinnacle\NNP
+4305|4290, 4308, Toba\NNP Pulp\NNP, Toba\NNP Pulp\NNP
+4306|4297|4288, 4309, Pinnacle\NNP, Pinnacle\NNP
+4308|4305|4290, 4314, Toba\NNP Pulp\NNP, Toba\NNP Pulp\NNP
+4309|4306|4297|4288, 4315, Pinnacle\NNP, Pinnacle.\NNP
+4320, 4322, Tjandra\NNP Putra.\NNP, Tjandra\NNP
+4315|4309|4306|4297|4288, 4324, Pinnacle.\NNP, Pinnacle\NNP
+4322|4320, 4326, Tjandra\NNP, nya,\PRP
+4324|4315|4309|4306|4297|4288, 4329, Pinnacle\NNP, Pinnacle.\NNP
+4334, 4335, Bursa\NNP Efek\NNP Surabaya\NNP, BES,\NNP
+4325, 4336, Toba\NNP Pulp.\NNP, Toba\NNP Pulp\NNP
+4336|4325, 4337, Toba\NNP Pulp\NNP, nya.\PRP
+4336|4325, 4338, Toba\NNP Pulp\NNP, Toba\NNP Pulp\NNP
+4338|4336|4325, 4347, Toba\NNP Pulp\NNP, Perusahaan\NN ini\PR
+4347|4338|4336|4325, 4350, Perusahaan\NN ini\PR, pabrik\NN ini\PR
+4350|4347|4338|4336|4325, 4351, pabrik\NN ini\PR, nya,\PRP
+4359, 4372, Deputi\NNP Gubernur\NNP Senior\NNP BI\NNP Miranda\NNP Goeltom\NNP, nya,\PRP
+4372|4359, 4387, nya,\PRP, nya\PRP
+4387|4372|4359, 4400, nya\PRP, nya.\PRP
+4400|4387|4372|4359, 4401, nya.\PRP, Ia\PRP
+4434, 4435, Perusahaan\NN perkebunan\NN, PT\NNP Bakrie\NNP Sumatra\NNP Plantation\NNP Tbk\NNP
+4435|4434, 4437, PT\NNP Bakrie\NNP Sumatra\NNP Plantation\NNP Tbk\NNP, nya\PRP
+4437|4435|4434, 4444, nya\PRP, nya\PRP
+4444|4437|4435|4434, 4449, nya\PRP, nya\PRP
+4463, 4464, Badan\NNP Pusat\NNP Statistik\NNP, BPS\NNP
+4488, 4489, Kepala\NNP BPS,\NNP, Rusman\NNP Heriawan.\NNP
+4489|4488, 4496, Rusman\NNP Heriawan.\NNP, Dia\PRP
+4496|4489|4488, 4505, Dia\PRP, nya.\PRP
+4505|4496|4489|4488, 4506, nya.\PRP, nya,\PRP
+4552, 4553, PT\NNP Kalbe\NNP Farma\NNP Tbk\NNP, KLBF,\NNP
+4552, 4558, PT\NNP Kalbe\NNP Farma\NNP Tbk\NNP, nya\PRP
+4552, 4564, PT\NNP Kalbe\NNP Farma\NNP Tbk\NNP, Kalbe\NNP Farma\NNP
+4564|4552, 4569, Kalbe\NNP Farma\NNP, Kalbe\NNP Farma\NNP
+4569|4564|4552, 4576, Kalbe\NNP Farma\NNP, Kalbe\NNP Farma\NNP
+4579, 4583, Deputi\NNP Gubernur\NNP Senior\NNP Miranda\NNP S\NNP Goeltom\NNP, dia,\PRP
+4583|4579, 4584, dia,\PRP, nya\PRP
+4584|4583|4579, 4592, nya\PRP, nya\PRP
+4592|4584|4583|4579, 4606, nya\PRP, dia,\PRP
+4606|4592|4584|4583|4579, 4617, dia,\PRP, nya.\PRP
+4617|4606|4592|4584|4583|4579, 4620, nya.\PRP, dia\PRP
+4620|4617|4606|4592|4584|4583|4579, 4627, dia\PRP, dia\PRP
+4632, 4637, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP Indrawati,\NNP, Menkeu,\NN
+4639, 4640, Panitia\NN Ad\FW Hoc\FW, PAH\NN
+4665, 4666, Menkeu.\NN, nya,\PRP
+4695, 4721, Menkeu\NN, Mulyani,\NNP
+4733, 4734, Deputi\NNP Gubernur\NNP Senior\NNP BI,\NNP, Miranda\NNP Goeltom\NNP
+4734|4733, 4751, Miranda\NNP Goeltom\NNP, nya\PRP
+4751|4734|4733, 4757, nya\PRP, dia,\PRP
+4757|4751|4734|4733, 4760, dia,\PRP, nya.\PRP
+4760|4757|4751|4734|4733, 4791, nya.\PRP, nya.\PRP
+4825, 4826, PT\NNP Petrokimia\NNP Gresik\NNP, PKG\NNP
+4826|4825, 4829, PKG\NNP, nya.\PRP
+4831, 4832, Direktur\NNP Utama\NNP PT\NNP Bank\NNP Mandiri,\NNP, Agus\NNP Martowardoyo\NNP
+4832|4831, 4838, Agus\NNP Martowardoyo\NNP, Agus\NNP Wartowardoyo\NNP
+4826|4825, 4842, PKG\NNP, PKG.\NNP
+4838|4832|4831, 4848, Agus\NNP Wartowardoyo\NNP, nya.\PRP
+4848|4838|4832|4831, 4855, nya.\PRP, nya.\PRP
+4855|4848|4838|4832|4831, 4856, nya.\PRP, dia,\PRP
+4842|4826|4825, 4858, PKG.\NNP, PKG\NNP
+4856|4855|4848|4838|4832|4831, 4862, dia,\PRP, nya\PRP
+4862|4856|4855|4848|4838|4832|4831, 4878, nya\PRP, nya.\PRP
+4879, 4880, crude\FW palm\FW oil\FW, CPO\FW
+4882|4882, 4882, AALI\NNP, AALI\NNP
+4887, 4888, Direktur\NNP perseroan\NNP Susanto,\NNP, nya\PRP
+4880|4879, 4892, CPO\FW, CPO\FW
+4887, 4900, Direktur\NNP perseroan\NNP Susanto,\NNP, Santoso,\NNP
+4900|4887, 4917, Santoso,\NNP, Dia\PRP
+4941, 4947, New\NNP York.\NNP, New\NNP York\NNP
+4939, 4949, tokyo,\NNP, Tokyo.\NNP
+4947|4941, 4957, New\NNP York\NNP, New\NNP York\NNP
+4949|4939, 4960, Tokyo.\NNP, Tokyo.\NNP
+4957|4947|4941, 4961, New\NNP York\NNP, New\NNP York,\NNP
+4974, 4975, PT\NNP Bank\NNP Negara\NNP Indonesia\NNP Persero\NNP Tbk\NNP, BBNI\NNP
+4975|4974, 4982, BBNI\NNP, BNI\NNP
+4986, 4987, Sekretaris\NNP Perusahaan\NNP BNI\NNP Intan\NNP Abdams\NNP Katoppo\NNP, nya\PRP
+4988, 4989, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ,\NNP
+4982|4975|4974, 4992, BNI\NNP, BNI\NNP
+4987|4986, 4993, nya\PRP, dia,\PRP
+4992|4982|4975|4974, 4996, BNI\NNP, BNI\NNP
+5013, 5014, Wadirut\NNP Bank\NNP Mandiri,\NNP, Wayan\NNP Agus\NNP Mertayasa\NNP
+5014|5013, 5020, Wayan\NNP Agus\NNP Mertayasa\NNP, Dia\PRP
+5027, 5028, Uni\NNP Emirat\NNP Arab\NNP, UEA\NNP
+5031, 5039, Bank\NNP Islam\NNP Al\NNP Hilal\NNP Bulan\NNP Sabit\NNP, Al\NNP Hilal\NNP
+5029, 5048, Sheikh\NNP Khalifa\NNP bin\NNP Zayed\NNP Al\NNP Nahyan,\NNP, nya.\PRP
+5081, 5082, PT\NNP Bank\NNP Pan\NNP Indonesia\NNP Tbk\NNP, Panin\NNP
+5082|5081, 5084, Panin\NNP, nya\PRP
+5082|5081, 5089, Panin\NNP, Bank\NNP Panin.\NNP
+5089|5082|5081, 5095, Bank\NNP Panin.\NNP, Bank\NNP Panin\NNP
+5095|5089|5082|5081, 5100, Bank\NNP Panin\NNP, Bank\NNP Panin\NNP
+5108, 5109, Australia\NNP and\NNP New\NNP Zealand\NNP Banking\NNP Group\NNP, ANZ\NNP
+5112, 5128, Depkeu\NNP, dia\PRP
+5112, 5130, Depkeu\NNP, Depkeu\NNP
+5130|5112, 5141, Depkeu\NNP, nya\PRP
+5141|5130|5112, 5184, nya\PRP, nya.\PRP
+5194, 5210, Gubernur\NNP Bank\NNP Indonesia\NNP Burhanudin\NNP Abdullah\NNP, ia\PRP
+5210|5194, 5223, ia\PRP, nya.\PRP
+5224, 5225, Bank\NNP Indonesia\NNP, BI\NNP
+5226, 5237, Burhanudin\NNP Abdullah,\NNP, Gubernur\NN BI\NNP
+5237|5226, 5243, Gubernur\NN BI\NNP, Ia\PRP
+5243|5237|5226, 5251, Ia\PRP, nya.\PRP
+5254, 5255, BI\NNP, nya\PRP
+5252, 5261, Ia\PRP, nya.\PRP
+5261|5252, 5262, nya.\PRP, nya,\PRP
+5262|5261|5252, 5269, nya,\PRP, ia\PRP
+5269|5262|5261|5252, 5271, ia\PRP, nya\PRP
+5271|5269|5262|5261|5252, 5278, nya\PRP, nya.\PRP
+5279, 5280, PT\NNP Pemeringkat\NNP Efek\NNP Indonesia\NNP, Pefindo\NNP
+5308, 5309, Bakrie\NNP Telecom\NNP, nya\PRP
+5330, 5336, Menko\NNP Perekonomian\NNP Boediono,\NNP, dia,\PRP
+5338, 5339, Pendapatan\NN Domestik\JJ Bruto\NN, PDB\NN
+5345, 5346, Pajak\NN Penghasilan\NN, PPh\NN
+5347, 5348, Pajak\NN Pertambahan\NN Nilai\NN, PPN\NN
+5345, 5357, Pajak\NN Penghasilan\NN, Sri\NNP Mulyani.\NNP
+5358, 5359, Sektor\NN konstruksi,\NN, nya\PRP
+5348|5347, 5361, PPN\NN, PPN\NN
+5346|5345, 5364, PPh\NN, PPh\NN
+5361|5348|5347, 5366, PPN\NN, PPN\NN
+5366|5361|5348|5347, 5371, PPN\NN, PPN\NN
+5381, 5385, Industri\NN pengolahan\NN, nya\PRP
+5385|5381, 5387, nya\PRP, nya\PRP
+5357|5345, 5389, Sri\NNP Mulyani.\NNP, Sri\NNP Mulyani.\NNP
+5392, 5394, industri\NN pengolahan\NN, nya\PRP
+5394|5392, 5397, nya\PRP, nya\PRP
+5398, 5399, industri\NN tekstil\NN, nya\PRP
+5389|5357|5345, 5403, Sri\NNP Mulyani.\NNP, Sri\NNP Mulyani,\NNP
+5409, 5413, Industri\NN elektronika\NN, nya.\PRP
+5403|5389|5357|5345, 5419, Sri\NNP Mulyani,\NNP, Sri\NNP Mulyani,\NNP
+5419|5403|5389|5357|5345, 5431, Sri\NNP Mulyani,\NNP, Sri\NNP Mulyani.\NNP
+5431|5419|5403|5389|5357|5345, 5432, Sri\NNP Mulyani.\NNP, nya,\PRP
+5435, 5436, Badan\NN Usaha\NN Milik\NN Negara\NN, BUMN\NN
+5442, 5447, Presiden\NN, Presiden\NN
+5447|5442, 5451, Presiden\NN, nya.\PRP
+5447|5442, 5452, Presiden\NN, Presiden\NN
+5473, 5474, Direktur\NNP Retail\NNP Banking\NNP PT\NNP Bank\NNP Mega\NNP Tbk,\NNP, Kostaman\NNP Thayib\NNP
+5474|5473, 5481, Kostaman\NNP Thayib\NNP, Kostaman\NNP Thayib,\NNP
+5484, 5485, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ\NNP
+5481|5474|5473, 5493, Kostaman\NNP Thayib,\NNP, nya.\PRP
+5493|5481|5474|5473, 5510, nya.\PRP, nya.\PRP
+5510|5493|5481|5474|5473, 5511, nya.\PRP, Ia\PRP
+5512, 5513, Bank\NNP Indonesia\NNP, BI\NNP
+5513|5512, 5523, BI\NNP, BI\NNP
+5510|5493|5481|5474|5473, 5525, nya.\PRP, nya.\PRP
+5528, 5536, Bank\NNP Danamon\NNP, Bank\NNP Danamon\NNP
+5534, 5548, Vera\NNP, nya.\PRP
+5548|5534, 5549, nya.\PRP, dia\PRP
+5536|5528, 5558, Bank\NNP Danamon\NNP, Bank\NNP Danamon\NNP
+5549|5548|5534, 5559, dia\PRP, dia\PRP
+5558|5536|5528, 5565, Bank\NNP Danamon\NNP, Bank\NNP Danamon\NNP
+5559|5549|5548|5534, 5573, dia\PRP, nya.\PRP
+5573|5559|5549|5548|5534, 5574, nya.\PRP, Ia\PRP
+5565|5558|5536|5528, 5576, Bank\NNP Danamon\NNP, Bank\NNP danamon\NNP
+5582, 5583, PT\NNP Hanjaya\NNP Mandala\NNP Sampoerna\NNP Tbk\NNP, HMSP,\NNP
+5584, 5585, Sampoerna\NNP Packaging\NNP Asia\NNP Pte.\NNP Ltd.\NNP, SPA\NNP
+5585|5584, 5587, SPA\NNP, nya\PRP
+5588, 5589, Jiangsu\NNP Liantong\NNP Sampoerna\NNP Printing\NNP Co.\NNP Ltd.\NNP, Jiangsu,\NNP
+5591, 5592, Direktur\NNP HMSP\NNP Kevin\NNP D.\NNP Click\NNP, nya\PRP
+5593, 5594, Bursa\NNP Efek\NNP Surabaya\NNP, BES,\NNP
+5585|5584, 5596, SPA\NNP, SPA\NNP
+5596|5585|5584, 5600, SPA\NNP, SPA\NNP
+5589|5588, 5602, Jiangsu,\NNP, Jiangsu.\NNP
+5592|5591, 5603, nya\PRP, nya,\PRP
+5603|5592|5591, 5610, nya,\PRP, dia,\PRP
+5614, 5615, PT\NNP United\NNP Tractors\NNP Tbk\NNP, UNTR\NNP
+5622, 5623, Sekretaris\NNP Perusahaan\NNP UNTR\NNP Tjandrawati\NNP Waas\NNP, nya\PRP
+5624, 5625, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ,\NNP
+5623|5622, 5636, nya\PRP, dia,\PRP
+5644, 5645, PT\NNP Dasa\NNP Eka\NNP Jasatama\NNP, DEJ\NNP
+5645|5644, 5647, DEJ\NNP, nya\PRP
+5648, 5649, perseroan.\NN, perseroan\NN
+5636|5623|5622, 5659, dia,\PRP, nya.\PRP
+5659|5636|5623|5622, 5660, nya.\PRP, dia,\PRP
+5682, 5683, PT\NNP International\NNP Nickel\NNP Indonesia\NNP, INCO\NNP
+5690, 5704, Presiden\NNP Direktur\NNP INCO\NNP Arif\NNP Siregar,\NNP, Arif,\NNP
+5704|5690, 5719, Arif,\NNP, nya,\PRP
+5735, 5736, pembangkit\NN listrik\NN tenaga\NN air\NN, PLTA\NN
+5704|5690, 5738, Arif,\NNP, Arif.\NNP
+5738|5704|5690, 5740, Arif.\NNP, dia\PRP
+5751, 5752, pembangkit\NN listrik\NN tenaga\NN diesel\NN, PLTD\NN
+5746, 5757, Direktur\NNP INCO\NNP Sri\NNP Kuncoro,\NNP, Kuncoro,\NNP
+5752|5751, 5758, PLTD\NN, PLTD\NN ini\PR
+5775, 5780, Menteri\NNP Keuangan\NNP Sri\NNP Mulyani\NNP, Menkeu,\NN
+5805, 5807, perusahaan\NN, nya,\PRP
+5780|5775, 5814, Menkeu,\NN, Menkeu.\NN
+5814|5780|5775, 5815, Menkeu.\NN, dia,\PRP
+5818, 5821, pemerintah\NN, pemerintah\NN
+5815|5814|5780|5775, 5830, dia,\PRP, nya.\PRP
+5832, 5833, Annual\NNP Reports\NNP Award\NNP, ARA\NNP
+5849, 5858, obligasi\NN negara\NN, obligasi\NN negara\NN
+5862, 5863, Dirjen\NNP Pengelolaan\NNP Utang\NNP Departemen\NNP Keuangan,\NNP, Rahmat\NNP Waluyanto\NNP
+5863|5862, 5866, Rahmat\NNP Waluyanto\NNP, Rahmat\NNP
+5866|5863|5862, 5895, Rahmat\NNP, Rahmat.\NNP
+5910, 5911, Indonesia.\NNP, Indonesia,\NNP
+5912, 5918, PM\NNP Abe\NNP, PM\NNP Abe\NNP
+5921, 5922, Economic\NNP Partnership\NNP Agreement\NNP, EPA.\NNP
+5922|5921, 5923, EPA.\NNP, EPA\NNP tersebut\PR
+5911|5910, 5925, Indonesia,\NNP, Indonesia,\NNP
+5923|5922|5921, 5928, EPA\NNP tersebut\PR, EPA\NNP
+5927, 5929, Jepang.\NNP, Jepang\NNP
+5938, 5941, Shinzo\NNP Abe\NNP, ia\PRP
+5928|5923|5922|5921, 5942, EPA\NNP, EPA\NNP
+5983, 5984, Japan\NNP Airlines\NNP, JAL,\SYM
+5986|5986, 5986, ANA,\NNP, ANA,\NNP
+6004, 6005, PT\NNP Guntung\NNP Idamannusa\NNP, GIN.\NNP
+6006, 6007, Sekretaris\NNP Perusahaan\NNP UNSP\NNP Fitri\NNP Barnas,\NNP, nya\PRP
+6005|6004, 6012, GIN.\NNP, GIN\NNP
+6006, 6016, Sekretaris\NNP Perusahaan\NNP UNSP\NNP Fitri\NNP Barnas,\NNP, Fitri,\NNP
+6016|6006, 6033, Fitri,\NNP, nya.\PRP
+6032, 6035, CPO,\FW, CPO\FW
+6016|6006, 6038, Fitri,\NNP, Fitri.\NNP
+6039, 6040, Badan\NNP Pusat\NNP Statistik\NNP, BPS\NNP
+6059, 6060, Produk\NN Domestik\JJ Bruto\NN, PDB\NN
+6048, 6065, Deputi\NNP Bidang\NNP Analisis\NNP dan\NNP Neraca\NNP Statistik\NNP BPS\NNP Slamet\NNP Sutomo\NNP, nya,\PRP
+6065|6048, 6086, nya,\PRP, nya,\PRP
+6086|6065|6048, 6095, nya,\PRP, Dia\PRP
+6095|6086|6065|6048, 6114, Dia\PRP, nya.\PRP
+6114|6095|6086|6065|6048, 6116, nya.\PRP, nya,\PRP
+6130, 6131, Produk\NN Domestik\JJ Bruto\NN, PDB,\NN
+6139, 6147, Presiden\NNP Susilo\NNP Bambang\NNP Yudhoyono\NNP, Presiden\NN
+6147|6139, 6177, Presiden\NN, Kepala\NN Negara.\NN
+6177|6147|6139, 6178, Kepala\NN Negara.\NN, Presiden\NN
+6178|6177|6147|6139, 6184, Presiden\NN, Presiden,\NN
+6188, 6189, Surat\NN Berharga\JJ Negara\NN, SBN\NN
+6184|6178|6177|6147|6139, 6197, Presiden,\NN, Presiden.\NN
+6197|6184|6178|6177|6147|6139, 6206, Presiden.\NN, Presiden.\NN
+6206|6197|6184|6178|6177|6147|6139, 6209, Presiden.\NN, Kepala\NN Negara,\NN
+6209|6206|6197|6184|6178|6177|6147|6139, 6224, Kepala\NN Negara,\NN, Presiden.\NN
+6211, 6225, pemerintah\NN, Pemerintah\NN
+6237, 6238, Produk\NN Domestik\JJ Bruto\NN, PDB,\NN
+6239, 6253, Presiden\NNP Susilo\NNP Bambang\NNP Yudhoyono\NNP, Presiden\NN
+6253|6239, 6276, Presiden\NN, nya.\PRP
+6289, 6290, Badan\NN Usaha\NN Milik\NN Negara\NN, BUMN\NN
+6261, 6292, Pemerintah\NN, Pemerintah\NN
+6280, 6296, PNBP\NN, PBNP,\X
+6299, 6303, Presiden.\NN, Presiden\NN
+6303|6299, 6306, Presiden\NN, Presiden\NNP Susilo\NNP Bambang\NNP Yudhoyono\NNP
+6307|6307, 6307, nya\PRP, nya\PRP
+6306|6303|6299, 6312, Presiden\NNP Susilo\NNP Bambang\NNP Yudhoyono\NNP, Saya\PRP
+6312|6306|6303|6299, 6324, Saya\PRP, nya\PRP
+6306|6303|6299, 6332, Presiden\NNP Susilo\NNP Bambang\NNP Yudhoyono\NNP, Presiden,\NN
+6332|6306|6303|6299, 6352, Presiden,\NN, Presiden.\NN
+6352|6332|6306|6303|6299, 6354, Presiden.\NN, Kepala\NN Negara,\NN
+6354|6352|6332|6306|6303|6299, 6361, Kepala\NN Negara,\NN, Presiden,\NN
+6361|6354|6352|6332|6306|6303|6299, 6363, Presiden,\NN, nya,\PRP
+6361|6354|6352|6332|6306|6303|6299, 6364, Presiden,\NN, Presiden\NN
+6373|6373, 6373, BI\NNP, BI\NNP
+6374, 6375, Burhanuddin\NNP Abdullah\NNP, nya\PRP
+6374, 6388, Burhanuddin\NNP Abdullah\NNP, Burhanuddin\NNP
+6388|6374, 6396, Burhanuddin\NNP, Dia\PRP
+6396|6388|6374, 6401, Dia\PRP, nya.\PRP
+6408, 6409, produk\NN domestik\JJ bruto\NN, PDB\NN
+6424, 6438, Gubernur\NNP Bank\NNP Indonesia\NNP Burhanuddin\NNP Abdullah\NNP, Burhanuddin\NNP
+6438|6424, 6443, Burhanuddin\NNP, nya\PRP
+6443|6438|6424, 6455, nya\PRP, nya.\PRP
+6455|6443|6438|6424, 6456, nya.\PRP, nya,\PRP
+6448, 6458, Bank\NNP Indonesia\NNP, BI\NNP
+6456|6455|6443|6438|6424, 6465, nya,\PRP, nya.\PRP
+6477, 6478, Bank\NNP Indonesia\NNP, BI\NNP
+6488, 6489, Deputi\NNP Gubernur\NNP BI,\NNP, Aslim\NNP Tadjuddin\NNP
+6489|6488, 6495, Aslim\NNP Tadjuddin\NNP, Ia\PRP
+6501, 6511, The\NNP Federal\NNP Reserves\NNP, The\NNP Federal\NNP Reserves\NNP
+6495|6489|6488, 6517, Ia\PRP, nya.\PRP
+6517|6495|6489|6488, 6518, nya.\PRP, Ia\PRP
+6518|6517|6495|6489|6488, 6524, Ia\PRP, ia\PRP
+6524|6518|6517|6495|6489|6488, 6530, ia\PRP, dia,\PRP
+6525, 6531, BI\NNP, BI\NNP
+6548, 6549, Bank\NNP Indonesia\NNP, BI\NNP
+6544, 6550, Aslim\NNP, Aslim\NNP Tadjuddin\NNP
+6558, 6559, Amerika\NNP Serikat\NNP, AS\NNP
+6550|6544, 6567, Aslim\NNP Tadjuddin\NNP, Aslim\NNP
+6567|6550|6544, 6577, Aslim\NNP, Aslim\NNP Tadjuddin,\NNP
+6577|6567|6550|6544, 6580, Aslim\NNP Tadjuddin,\NNP, Ia\PRP
+6580|6577|6567|6550|6544, 6589, Ia\PRP, nya.\PRP
+6589|6580|6577|6567|6550|6544, 6590, nya.\PRP, Ia\PRP
+6593, 6594, The\NNP Federal\NNP Reserves\NNP AS/\NNP, The\NNP Fed\NNP
+6594|6593, 6596, The\NNP Fed\NNP, '\Z The\NNP Fed\NNP '\Z
+6596|6594|6593, 6598, '\Z The\NNP Fed\NNP '\Z, '\Z The\NNP Fed\NNP '\Z
+6590|6589|6580|6577|6567|6550|6544, 6604, Ia\PRP, nya.\PRP
+6604|6590|6589|6580|6577|6567|6550|6544, 6605, nya.\PRP, Ia\PRP
+6610, 6611, Pemeringkat\NNP Efek\NNP Indonesia\NNP, Pefindo\NNP
+6614, 6615, PT\NNP Bank\NNP Pembangunan\NNP Daerah\NNP Jawa\NNP Timur\NNP, Bank\NNP Jatim\NNP
+6618, 6619, Direktur\NNP Utama\NNP Pefindo\NNP Kahlil\NNP Rowter,\NNP, nya\PRP
+6619|6618, 6622, nya\PRP, nya,\PRP
+6622|6619|6618, 6637, nya,\PRP, nya.\PRP
+6637|6622|6619|6618, 6640, nya.\PRP, nya.\PRP
+6642, 6643, PT\NNP Medco\NNP Energi\NNP Internasional\NNP Tbk\NNP, MEDC\NNP
+6649, 6650, Encore\NNP Energy\NNP Pte.\NNP Ltd.\NNP, Encore\NNP Energy,\NNP
+6653, 6654, Direktur\NNP MedcoEnergi\NNP Yani\NNP Panigoro\NNP, nya\PRP
+6654|6653, 6663, nya\PRP, Ia\PRP
+6664, 6668, Mitsubishi\NNP Corporation\NNP Mitsubishi,\NNP, nya\PRP
+6671, 6673, Encore\NNP Energy.\NNP, Encore\NNP Energy,\NNP
+6673|6671, 6680, Encore\NNP Energy,\NNP, Encore\NNP Energy\NNP
+6680|6673|6671, 6682, Encore\NNP Energy\NNP, MedcoEnergi,\NNP
+6663|6654|6653, 6683, Ia\PRP, nya.\PRP
+6698, 6699, Pengamat\NN Pasar\NN uang,\NN, Edwin\NNP Sinaga,\NNP
+6708, 6709, Bank\NNP Indonesia\NNP, BI\NNP
+6699|6698, 6711, Edwin\NNP Sinaga,\NNP, nya.\PRP
+6709|6708, 6712, BI\NNP, BI\NNP
+6711|6699|6698, 6717, nya.\PRP, nya.\PRP
+6721, 6727, AS\NNP, AS\NNP
+6718, 6728, Edwin\NNP Sinaga,\NNP, nya.\PRP
+6728|6718, 6729, nya.\PRP, dia,\PRP
+6729|6728|6718, 6739, dia,\PRP, nya.\PRP
+6745, 6746, Anggaran\NN Pendapatan\NN Belanja\NN Daerah\NN, APBD.\NN
+6739|6729|6728|6718, 6750, nya.\PRP, nya\PRP
+6750|6739|6729|6728|6718, 6755, nya\PRP, Ia\PRP
+6755|6750|6739|6729|6728|6718, 6760, Ia\PRP, ia\PRP
+6760|6755|6750|6739|6729|6728|6718, 6761, ia\PRP, nya\PRP
+6761|6760|6755|6750|6739|6729|6728|6718, 6766, nya\PRP, dia\PRP
+6766|6761|6760|6755|6750|6739|6729|6728|6718, 6774, dia\PRP, ia\PRP
+6774|6766|6761|6760|6755|6750|6739|6729|6728|6718, 6787, ia\PRP, Ia\PRP
+6787|6774|6766|6761|6760|6755|6750|6739|6729|6728|6718, 6792, Ia\PRP, dia,\PRP
+6792|6787|6774|6766|6761|6760|6755|6750|6739|6729|6728|6718, 6799, dia,\PRP, nya.\PRP
+6806, 6807, Direktur\NNP Multi\NNP Prima\NNP Sejahtera\NNP Tbk,\NNP, Hery\NNP Soegiarto\NNP
+6807|6806, 6808, Hery\NNP Soegiarto\NNP, nya\PRP
+6809, 6810, Bursa\NNP Efek\NNP Surabaya\NNP, BES\NNP
+6808|6807|6806, 6817, nya\PRP, ia\PRP
+6815, 6825, perseroan\NN, Perseroan\NN
+6840, 6841, Pemeringkat\NNP Efek\NNP Indonesia\NNP, Pefindo\NNP
+6844, 6845, PT\NNP Pembangunan\NNP Perumahan\NNP, PBPR\NNP
+6841|6840, 6849, Pefindo\NNP, nya\PRP
+6841|6840, 6852, Pefindo\NNP, Pefindo\NNP
+6852|6841|6840, 6864, Pefindo\NNP, Pefindo.\NNP
+6865, 6866, Pemeringkat\NNP Efek\NNP Indonesia\NNP, Pefindo\NNP
+6868, 6869, PT\NNP Serasi\NNP Autoraya\NNP, SERA\NNP
+6866|6865, 6875, Pefindo\NNP, Pefindo\NNP
+6875|6866|6865, 6876, Pefindo\NNP, nya\PRP
+6875|6866|6865, 6879, Pefindo\NNP, Pefindo,\NNP
+6902, 6904, Lembaga\NNP pemeringkat\NNP Fitch\NNP Ratings,\NNP, nya\PRP
+6906, 6907, PT\NNP Bank\NNP Niaga\NNP Tbk\NNP, BNGA\NNP
+6908, 6909, PT\NNP Bank\NNP Lippo\NNP Tbk\NNP, LPBN\NNP
+6902, 6913, Lembaga\NNP pemeringkat\NNP Fitch\NNP Ratings,\NNP, Fitch\NNP
+6913|6902, 6919, Fitch\NNP, Fitch\NNP Ratings,\NNP
+6919|6913|6902, 6920, Fitch\NNP Ratings,\NNP, nya,\PRP
+6919|6913|6902, 6924, Fitch\NNP Ratings,\NNP, Fitch,\NNP
+6927, 6928, CIMB\NNP Grup\NNP, CIMBG,\NNP
+6945, 6947, Pinjaman\NN LPBN\NNP, nya\PRP
+6924|6919|6913|6902, 6948, Fitch,\NNP, Fitch\NNP
+6989, 6990, Surat\NNP Utang\NNP Negara\NNP, SUN\NNP
+6992, 6993, Obligasi\NNP Negara\NNP Ritel\NNP, ORI.\NNP
+6985, 6995, Pemerintah\NN, pemerintah\NN
+7000, 7001, Bank\NNP Pembangunan\NNP Asia\NNP, ADB\NNP
+7023|7023, 7023, MEDC\NNP, MEDC\NNP
+7036, 7037, Direktur\NNP Pengembangan\NNP Medco\NNP Rashid\NNP I.\NNP Mangunkusumo,\NNP, nya\PRP
+7038, 7039, Bursa\NNP Efek\NNP Jakarta\NNP, BEJ\NNP
+7039|7038, 7056, BEJ\NNP, nya.\PRP
+7056|7039|7038, 7063, nya.\PRP, nya.\PRP
+7057, 7066, Medco\NNP Energi\NNP US\NNP, Medco\NNP Energy\NNP US\NNP
+7063|7056|7039|7038, 7069, nya.\PRP, nya.\PRP
+7111, 7112, PT\NNP Bakrieland\NNP Development\NNP Tbk\NNP, nya\PRP

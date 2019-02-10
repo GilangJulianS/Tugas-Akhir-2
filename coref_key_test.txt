@@ -1,0 +1,128 @@
+18|3, 24, Hendardi\NN, dia.\PRP
+80, 89, Andi\NNP Sinulingga\NNP, Andi\NNP
+89|80, 101, Andi\NNP, dia.\PRP
+101|89|80, 102, dia.\PRP, Andi\PRP
+102|101|89|80, 122, Andi\PRP, Andi\NNP
+126, 129, Mereka\PRP, mereka\PRP
+122|102|101|89|80, 132, Andi\NNP, Andi\PRP
+151, 160, Doni\NNP Prasetyo\NNP, Doni\NNP
+160|151, 174, Doni\NNP, Doni,\NNP
+174|160|151, 178, Doni,\NNP, Doni\NNP
+178|174|160|151, 204, Doni\NNP, Doni\NNP
+204|178|174|160|151, 213, Doni\NNP, Doni.\NN
+217, 231, Andi\NNP Sinulingga\NNP, Andi\NNP
+231|217, 235, Andi\NNP, Andi\PRP
+235|231|217, 240, Andi\PRP, Andi\NNP
+240|235|231|217, 243, Andi\NNP, Andi\NNP
+243|240|235|231|217, 262, Andi\NNP, Andi\PRP
+262|243|240|235|231|217, 275, Andi\PRP, Andi.\NNP
+325, 337, Lukman\NNP, Lukman.\NN
+340, 343, Wakil\NN Ketua\NN Komisi\NN VIII\NNP Sodik\NNP Mudjahid\NNP, dia\PRP
+343|340, 347, dia\PRP, Saya\PRP
+370, 372, Ter\NNP Stegen\NNP, Ter\NN Stegen\NNP
+372|370, 389, Ter\NN Stegen\NNP, Ter\NNP Stegen\NNP
+389|372|370, 391, Ter\NNP Stegen\NNP, Dia\PRP
+391|389|372|370, 396, Dia\PRP, dia\PRP
+396|391|389|372|370, 398, dia\PRP, Dia\PRP
+400, 404, Sergio\NNP Busquets,\NNP, Busquets\NNP
+408, 416, Ter\NNP Stegen\NNP, Ter\NNP Stegen\NNP
+416|408, 421, Ter\NNP Stegen\NNP, Ter\NN Stegen\NNP
+421|416|408, 423, Ter\NN Stegen\NNP, dia,\PRP
+443, 445, Ketua\NN Bidang\NN Keabsahan\NN Pengprov\NN PBSI\NNP, Saya\PRP
+445|443, 456, Saya\PRP, Saya\PRP
+452, 464, Kami\PRP, kami\PRP
+464|452, 471, kami\PRP, kami\PRP
+479, 483, Zaidan\NNP, Saya\PRP
+483|479, 487, Saya\PRP, saya\PRP
+487|483|479, 489, saya\PRP, saya\PRP
+489|487|483|479, 493, saya\PRP, saya\PRP
+493|489|487|483|479, 496, saya\PRP, Saya\PRP
+521, 524, Lola\NNP Karimova\NNP, Karimova\NNP
+524|521, 532, Karimova\NNP, Karimova\NNP
+529, 536, Karimov\PRP, Karimov\NN
+560, 561, Augustus\NNP Beckmann.\NNP, Dia\PRP
+561|560, 565, Dia\PRP, dia\PRP
+586, 593, Beckman,\NNP, Dia\PRP
+593|586, 599, Dia\PRP, dia\PRP
+605, 614, William\NNP Beckmann\NNP, William\NNP
+614|605, 624, William\NNP, dia.\PRP
+624|614|605, 628, dia.\PRP, Saya\PRP
+628|624|614|605, 630, Saya\PRP, dia.\PRP
+635, 643, Roy\NNP Calloway\NNP, Roy\NN sendiri\JJ
+643|635, 648, Roy\NN sendiri\JJ, Saya\PRP
+648|643|635, 649, Saya\PRP, saya\PRP
+649|648|643|635, 651, saya\PRP, saya\PRP
+643|635, 652, Roy\NN sendiri\JJ, Roy.\NNP
+652|643|635, 653, Roy.\NNP, Roy\NNP
+653|652|643|635, 654, Roy\NNP, dia\PRP
+654|653|652|643|635, 657, dia\PRP, Saya\PRP
+657|654|653|652|643|635, 661, Saya\PRP, saya\PRP
+661|657|654|653|652|643|635, 663, saya\PRP, Saya\PRP
+663|661|657|654|653|652|643|635, 666, Saya\PRP, saya\PRP
+666|663|661|657|654|653|652|643|635, 669, saya\PRP, dia.\PRP
+669|666|663|661|657|654|653|652|643|635, 672, dia.\PRP, dia\PRP
+672|669|666|663|661|657|654|653|652|643|635, 677, dia\PRP, saya\PRP
+677|672|669|666|663|661|657|654|653|652|643|635, 681, saya\PRP, saya\PRP
+681|677|672|669|666|663|661|657|654|653|652|643|635, 683, saya\PRP, saya\PRP
+686, 687, Roy.\NNP, saya\PRP
+687|686, 697, saya\PRP, saya\PRP
+697|687|686, 699, saya\PRP, Saya\PRP
+699|697|687|686, 700, Saya\PRP, saya\PRP
+700|699|697|687|686, 702, saya\PRP, Saya\PRP
+702|700|699|697|687|686, 704, Saya\PRP, saya\PRP
+704|702|700|699|697|687|686, 706, saya\PRP, dia.\PRP
+707, 712, Roy\NNP, Dia\PRP
+712|707, 715, Dia\PRP, saya\PRP
+715|712|707, 717, saya\PRP, saya\PRP
+717|715|712|707, 720, saya\PRP, saya,\NN
+720|717|715|712|707, 721, saya,\NN, dia.\PRP
+723|723, 723, Muhadjir\FW Effendy\FW, Muhadjir\FW Effendy\FW
+723|723|723, 737, Muhadjir\FW Effendy\FW, Mendikbud\NN
+737|723|723|723, 745, Mendikbud\NN, dia,\PRP
+745|737|723|723|723, 749, dia,\PRP, Saya\PRP
+749|745|737|723|723|723, 753, Saya\PRP, dia.\PRP
+784, 799, Unifah\NNP Rosyidi,\NNP, Unifah.\NN
+804, 812, Direktur\NN Jenderal\NN Pajak\NNP Ken\NNP Dwijugiasteadi\NNP, saya\PRP
+804, 816, Direktur\NN Jenderal\NN Pajak\NNP Ken\NNP Dwijugiasteadi\NNP, Ken\NNP
+816|804, 822, Ken\NNP, Ken\NNP
+822|816|804, 835, Ken\NNP, Ken.\NNP
+865, 880, Robert,\NNP, Robert.\NNP
+899, 917, Ketua\NN Dewan\NN Komisioner\NN OJK\NNP Muliaman\NNP D\NNP Hadad,\NNP, Muliaman\NNP
+917|899, 924, Muliaman\NNP, Muliaman\NNP
+924|917|899, 928, Muliaman\NNP, ia\PRP
+928|924|917|899, 941, ia\PRP, Muliaman\NNP
+941|928|924|917|899, 948, Muliaman\NNP, saya\PRP
+948|941|928|924|917|899, 952, saya\PRP, saya\PRP
+1040|1036|1028|1026|1015, 1041, saya\PRP, saya,\PRP
+1040|1036|1028|1026|1015, 1052, saya\PRP, Ahok.\NNP
+1052|1040|1036|1028|1026|1015, 1053, Ahok.\NNP, Ahok\NNP
+1053|1052|1040|1036|1028|1026|1015, 1057, Ahok\NNP, Ahok,\NNP
+1057|1053|1052|1040|1036|1028|1026|1015, 1061, Ahok,\NNP, Dia\PRP
+1061|1057|1053|1052|1040|1036|1028|1026|1015, 1069, Dia\PRP, saya\PRP
+1069|1061|1057|1053|1052|1040|1036|1028|1026|1015, 1075, saya\PRP, saya\PRP
+1075|1069|1061|1057|1053|1052|1040|1036|1028|1026|1015, 1077, saya\PRP, Ahok.\NNP
+1098, 1116, Maurin,\NNP, Maurin.\NNP
+1116|1098, 1117, Maurin.\NNP, Ia\PRP
+1117|1116|1098, 1137, Ia\PRP, Maurin.\NNP
+1140, 1157, Arteria\NNP Dahlan,\NNP, Saya\PRP
+1157|1140, 1162, Saya\PRP, Arteria\NN
+1162|1157|1140, 1165, Arteria\NN, Arteria,\NNP
+1165|1162|1157|1140, 1182, Arteria,\NNP, Arteria.\NNP
+1182|1165|1162|1157|1140, 1194, Arteria.\NNP, Arteria,\NNP
+1194|1182|1165|1162|1157|1140, 1206, Arteria,\NNP, Arteria,\NNP
+1206|1194|1182|1165|1162|1157|1140, 1223, Arteria,\NNP, dia.\PRP
+1223|1206|1194|1182|1165|1162|1157|1140, 1224, dia.\PRP, Arteria\NNP
+1224|1223|1206|1194|1182|1165|1162|1157|1140, 1227, Arteria\NNP, dia,\PRP
+1227|1224|1223|1206|1194|1182|1165|1162|1157|1140, 1231, dia,\PRP, Saya\PRP
+1257, 1262, Direktur\NN Jenderal\NN Pembiayaan\NN perumahan\NN Maurin\NNP Sitorus\NNP, Maurin,\NNP
+1262|1257, 1271, Maurin,\NNP, ia\PRP
+1321, 1323, Saya\PRP, Saya\PRP
+1323|1321, 1326, Saya\PRP, Saya\PRP
+1326|1323|1321, 1328, Saya\PRP, Yusril\NNP
+1331, 1337, Ahok\NNP, Dia\PRP
+1350, 1359, saya,\PRP, saya\PRP
+1359|1350, 1362, saya\PRP, Yusril.\NNP
+1362|1359|1350, 1365, Yusril.\NNP, Yusril\NNP
+1365|1362|1359|1350, 1368, Yusril\NNP, Dia\PRP
+1368|1365|1362|1359|1350, 1372, Dia\PRP, dia,\PRP
+1396, 1410, Yusril\NNP, Yusril.\NNP

@@ -1,0 +1,209 @@
+4, 7, video\NN testimoni\NN Freddy\NNP Budiman\NNP, Freddy.\NNP
+7, 9, Freddy.\NNP, saran\NN Freddy\NNP
+7, 12, Freddy.\NNP, Freddy\NNP
+3, 24, Hendardi,\NNP, dia.\PRP
+3, 25, Hendardi,\NNP, Hendardi\NNP
+25, 28, Hendardi\NNP, Ia\PRP
+25, 33, Hendardi\NNP, ia\PRP
+25, 55, Hendardi\NNP, Hendardi,\NNP
+12, 56, Freddy\NNP, pernyataan\NN Freddy\NNP
+12, 64, Freddy\NNP, perubahan\NN sikap\NN Freddy\NNP
+62, 66, Kementerian\NN Hukum\NN dan\CC HAM\NN Akbar\NNP Hadi.\NNP, mereka\PRP
+62, 71, Kementerian\NN Hukum\NN dan\CC HAM\NN Akbar\NNP Hadi.\NNP, Akbar.\NN
+80, 89, Andi\NNP Sinulingga\NNP, Andi\NNP
+89, 101, Andi\NNP, dia.\PRP
+89, 102, Andi\NNP, Andi\PRP
+82, 108, Golkar\NNP, platform\NN Golkar,\NNP
+82, 114, Golkar\NNP, Golkar\NNP
+102, 122, Andi\PRP, Andi\NNP
+122, 131, Andi\NNP, ucap\NN Andi.\NNP
+122, 132, Andi\NNP, Andi\PRP
+114, 135, Golkar\NNP, lumbung\NN suara\NN Partai\NN Golkar\NNP
+151, 160, Doni\NNP Prasetyo\NNP, Doni\NNP
+159, 165, Basuki\NNP atau\CC Ahok.\NNP, warga\NN pendukung\NN Ahok.\NNP
+160, 174, Doni\NNP, Doni,\NNP
+161, 176, Rumah\NN Lembang\NNP, Rumah\NN Lembang",\NNP
+174, 178, Doni,\NNP, Doni\NNP
+159, 201, Basuki\NNP atau\CC Ahok.\NNP, Teman\NN Ahok\NNP
+178, 204, Doni\NNP, Doni\NNP
+217, 231, Andi\NNP Sinulingga\NNP, Andi\NNP
+231, 235, Andi\NNP, Andi\PRP
+232, 236, DPP\NN Golkar,\NNP, Golkar\NNP
+231, 240, Andi\NNP, Andi\NNP
+227, 242, Aceh\NNP dan\CC Banten\NN, Aceh\NNP
+240, 243, Andi\NNP, Andi\NNP
+221, 245, Pilkada\NNP, tahapan\NN Pilkada.\NNP
+243, 261, Andi\NNP, ucap\NN Andi.\NNP
+243, 262, Andi\NNP, Andi\PRP
+262, 275, Andi\PRP, Andi.\NNP
+300, 313, Menteri\NN Agama\NN Lukman\NN Hakim\NN Saifudin\NNP, Kami\PRP
+302, 315, umat\NN Islam\NNP Indonesia\NNP, umat\NN muslim\NN Indonesia\NNP
+300, 325, Menteri\NN Agama\NN Lukman\NN Hakim\NN Saifudin\NNP, Lukman\NNP
+340, 343, Wakil\NN Ketua\NN Komisi\NN VIII\NNP Sodik\NNP Mudjahid\NNP, dia\PRP
+340, 347, Wakil\NN Ketua\NN Komisi\NN VIII\NNP Sodik\NNP Mudjahid\NNP, Saya\PRP
+340, 351, Wakil\NN Ketua\NN Komisi\NN VIII\NNP Sodik\NNP Mudjahid\NNP, papar\NN Sodik.\NNP
+370, 372, Ter\NNP Stegen\NNP, Ter\NN Stegen\NNP
+354, 374, Claudio\NNP Bravo\NNP, Bravo\NNP
+372, 389, Ter\NN Stegen\NNP, Ter\NNP Stegen\NNP
+389, 391, Ter\NNP Stegen\NNP, Dia\PRP
+387, 393, pelatih\NN Luis\NN Enrique\NNP, tutur\NNP Enrique.\NNP
+389, 394, Ter\NNP Stegen\NNP, permainan\NN Ter\NN Stegen\NNP
+389, 396, Ter\NNP Stegen\NNP, dia\PRP
+389, 398, Ter\NNP Stegen\NNP, Dia\PRP
+400, 404, Sergio\NNP Busquets,\NNP, Busquets\NNP
+402, 405, kaki\NN Benat.\NNP, usaha\NN Benat\NNP
+389, 408, Ter\NNP Stegen\NNP, Ter\NNP Stegen\NNP
+408, 416, Ter\NNP Stegen\NNP, Ter\NNP Stegen\NNP
+416, 421, Ter\NNP Stegen\NNP, Ter\NN Stegen\NNP
+421, 423, Ter\NN Stegen\NNP, dia,\PRP
+387, 425, pelatih\NN Luis\NN Enrique\NNP, tangan\NN Enrique.\NNP
+515, 520, Presiden\NN Uzbekistan\NN Islam\NNP Karimov\NNP, akun\NN Instragram\NN putri\NN Karimov,\NNP
+521, 524, Lola\NNP Karimova\NNP, Karimova\NNP
+515, 529, Presiden\NN Uzbekistan\NN Islam\NNP Karimov\NNP, Karimov\PRP
+524, 532, Karimova\NNP, Karimova\NNP
+529, 545, Karimov\PRP, bawah\NN kepemimpinan\NN Karimov,\NNP
+560, 561, Augustus\NNP Beckmann.\NNP, Dia\PRP
+560, 565, Augustus\NNP Beckmann.\NNP, dia\PRP
+560, 575, Augustus\NNP Beckmann.\NNP, keturunan\NN Beckmann\NNP
+578, 586, Beckman,\NNP, Beckman,\NNP
+586, 593, Beckman,\NNP, Dia\PRP
+586, 599, Beckman,\NNP, dia\PRP
+604, 605, Leluhur\NNP Beckman,\NNP, William\NNP Beckmann\NNP
+560, 606, Augustus\NNP Beckmann.\NNP, saudara\NN kandung\NN Augustus.\NNP
+605, 614, William\NNP Beckmann\NNP, William\NNP
+560, 616, Augustus\NNP Beckmann.\NNP, Augustus\NNP
+586, 619, Beckman,\NNP, Beckman.\NNP
+619, 624, Beckman.\NNP, dia.\PRP
+619, 625, Beckman.\NNP, Beckman\NNP
+625, 628, Beckman\NNP, Saya\PRP
+625, 630, Beckman\NNP, dia.\PRP
+635, 648, Roy\NNP Calloway\NNP, Saya\PRP
+635, 649, Roy\NNP Calloway\NNP, saya\PRP
+635, 651, Roy\NNP Calloway\NNP, saya\PRP
+635, 652, Roy\NNP Calloway\NNP, Roy.\NNP
+652, 653, Roy.\NNP, Roy\NNP
+653, 654, Roy\NNP, dia\PRP
+653, 657, Roy\NNP, Saya\PRP
+653, 661, Roy\NNP, saya\PRP
+653, 662, Roy\NNP, kenang\NN Roy.\NNP
+653, 663, Roy\NNP, Saya\PRP
+653, 666, Roy\NNP, saya\PRP
+653, 669, Roy\NNP, dia.\PRP
+653, 672, Roy\NNP, dia\PRP
+653, 677, Roy\NNP, saya\PRP
+653, 681, Roy\NNP, saya\PRP
+653, 683, Roy\NNP, saya\PRP
+653, 686, Roy\NNP, Roy.\NNP
+686, 687, Roy.\NNP, saya\PRP
+686, 689, Roy.\NNP, dia.\PRP
+686, 691, Roy.\NNP, putra\NN teman\NN Roy\NNP
+686, 697, Roy.\NNP, saya\PRP
+686, 699, Roy.\NNP, Saya\PRP
+686, 700, Roy.\NNP, saya\PRP
+686, 702, Roy.\NNP, Saya\PRP
+686, 704, Roy.\NNP, saya\PRP
+686, 706, Roy.\NNP, dia.\PRP
+686, 707, Roy.\NNP, Roy\NNP
+707, 712, Roy\NNP, Dia\PRP
+707, 715, Roy\NNP, saya\PRP
+707, 717, Roy\NNP, saya\PRP
+707, 721, Roy\NNP, dia.\PRP
+723, 745, Muhadjir\FW Effendy\FW, dia,\PRP
+723, 749, Muhadjir\FW Effendy\FW, Saya\PRP
+723, 753, Muhadjir\FW Effendy\FW, dia.\PRP
+723, 769, Muhadjir\FW Effendy\FW, Mantan\NN Rektor\NN Universitas\NN Muhammadiyah\NNP Malang\NNP
+723, 770, Muhadjir\FW Effendy\FW, Muhadjir\NNP
+804, 812, Direktur\NN Jenderal\NN Pajak\NNP Ken\NNP Dwijugiasteadi\NNP, saya\PRP
+804, 816, Direktur\NN Jenderal\NN Pajak\NNP Ken\NNP Dwijugiasteadi\NNP, Ken\NNP
+816, 822, Ken\NNP, Ken\NNP
+822, 835, Ken\NNP, Ken.\NNP
+848, 851, Indonesia\NNP, kita\PRP
+854, 865, Kementerian\NN Keuangan\NN Robert\NNP Pakpahan\NNP, Robert,\NNP
+865, 880, Robert,\NNP, Robert.\NNP
+899, 910, Ketua\NN Dewan\NN Komisioner\NN OJK\NNP Muliaman\NNP D\NNP Hadad,\NNP, Kami\PRP
+899, 917, Ketua\NN Dewan\NN Komisioner\NN OJK\NNP Muliaman\NNP D\NNP Hadad,\NNP, Muliaman\NNP
+917, 924, Muliaman\NNP, Muliaman\NNP
+924, 928, Muliaman\NNP, ia\PRP
+924, 932, Muliaman\NNP, imbuh\NN Muliaman,\NNP
+924, 941, Muliaman\NNP, Muliaman\NNP
+890, 942, OJK\NNP, OJK\NNP
+941, 948, Muliaman\NNP, saya\PRP
+941, 952, Muliaman\NNP, saya\PRP
+941, 956, Muliaman\NNP, tutur\NNP Muliaman.\NNP
+962, 971, Gubernur\NN Sulawesi\NN Utara\NN Olly\NN Dondokambey\NN, Gubernur\NN Olly\NNP Dondokambey\NNP
+963, 973, Liliyana\NNP Natsir,\NNP, Liliyana\NNP Natsir.\NNP
+971, 979, Gubernur\NN Olly\NNP Dondokambey\NNP, ucap\NN Olly\NNP
+964, 980, Manado,\NNP, Manado,\NNP
+973, 982, Liliyana\NNP Natsir.\NNP, Liliyana\NNP
+982, 985, Liliyana\NNP, saya\PRP
+982, 987, Liliyana\NNP, ucap\NN Liliyana\NN Natsir\NNP
+994, 995, Basuki\NN Tjahaja\NN Purnama\NN, dia\PRP
+995, 1000, dia\PRP, Dia\PRP
+997, 1002, keberlangsungan\NN Pusat\NN Dokumentasi\NN Sastra\NNP H.B\NNP Jassin\NNP, gaji\NN pegawai\NN PDS\NN H.B\NNP Jassin.\NNP
+995, 1003, dia\PRP, saya\PRP
+995, 1006, dia\PRP, saya\PRP
+995, 1009, dia\PRP, saya\PRP
+995, 1011, dia\PRP, saya\PRP
+995, 1013, dia\PRP, saya\PRP
+995, 1015, dia\PRP, Basuki\NN atau\CC Ahok\NNP
+993, 1017, Gubernur\NN DKI\NNP Jakarta\NNP, Kota\NN DKI\NNP Jakarta,\NNP
+1021, 1023, Sejarawan\NN JJ\NN Rizal\NNP dan\CC pengelola\NN PDS\NN H.B\NN Jassin\NN, mereka\PRP
+1017, 1024, Kota\NN DKI\NNP Jakarta,\NNP, Pemprov\NN DKI\NNP Jakarta.\NNP
+1015, 1026, Basuki\NN atau\CC Ahok\NNP, Ahok\NNP
+1026, 1028, Ahok\NNP, Dia\PRP
+1002, 1029, gaji\NN pegawai\NN PDS\NN H.B\NNP Jassin.\NNP, pengelola\NN PDS\NN H.B\NN Jassin\NNP
+1026, 1036, Ahok\NNP, Ahok\NNP
+1036, 1040, Ahok\NNP, saya\PRP
+1036, 1041, Ahok\NNP, saya,\PRP
+1036, 1052, Ahok\NNP, Ahok.\NNP
+1052, 1053, Ahok.\NNP, Ahok\NNP
+1053, 1057, Ahok\NNP, Ahok,\NNP
+1002, 1059, gaji\NN pegawai\NN PDS\NN H.B\NNP Jassin.\NNP, PDS\NN H.B\NNP Jassin,\NNP
+1017, 1060, Kota\NN DKI\NNP Jakarta,\NNP, Pemprov\NN DKI\NNP Jakarta.\NNP
+1057, 1061, Ahok,\NNP, Dia\PRP
+1057, 1069, Ahok,\NNP, saya\PRP
+1057, 1075, Ahok,\NNP, saya\PRP
+1057, 1077, Ahok,\NNP, Ahok.\NNP
+1092, 1098, Direktur\NN Jenderal\NN Pembiayaan\NN perumahan\NN Maurin\NNP Sitorus\NNP, Maurin,\NNP
+1098, 1116, Maurin,\NNP, Maurin.\NNP
+1116, 1117, Maurin.\NNP, Ia\PRP
+1116, 1137, Maurin.\NNP, Maurin.\NNP
+1140, 1157, Arteria\NNP Dahlan,\NNP, Saya\PRP
+1140, 1162, Arteria\NNP Dahlan,\NNP, Arteria\NN
+1162, 1165, Arteria\NN, Arteria,\NNP
+1165, 1182, Arteria,\NNP, Arteria.\NNP
+1182, 1194, Arteria.\NNP, Arteria,\NNP
+1194, 1205, Arteria,\NNP, ucap\NN Arteria.\NNP
+1194, 1206, Arteria,\NNP, Arteria,\NNP
+1206, 1223, Arteria,\NNP, dia.\PRP
+1206, 1224, Arteria,\NNP, Arteria\NNP
+1224, 1227, Arteria\NNP, dia,\PRP
+1224, 1231, Arteria\NNP, Saya\PRP
+1224, 1237, Arteria\NNP, kita\PRP
+1257, 1262, Direktur\NN Jenderal\NN Pembiayaan\NN perumahan\NN Maurin\NNP Sitorus\NNP, Maurin,\NNP
+1262, 1271, Maurin,\NNP, ia\PRP
+1262, 1298, Maurin,\NNP, Maurin\NNP
+1298, 1309, Maurin\NNP, cetus\NN Maurin.\NNP
+1311, 1320, permintaan\NN Gubernur\NN DKI\NNP Jakarta\NNP Basuki\NN Tjahaja\NN Purnama\NN atau\CC Ahok\NNP, candaan\NN Ahok.\NNP
+1310, 1321, Pakar\NN Hukum\NN Tata\NN Negara\NN Yusril\NNP Ihza\NNP Mahendra\NNP, Saya\PRP
+1310, 1323, Pakar\NN Hukum\NN Tata\NN Negara\NN Yusril\NNP Ihza\NNP Mahendra\NNP, Saya\PRP
+1310, 1326, Pakar\NN Hukum\NN Tata\NN Negara\NN Yusril\NNP Ihza\NNP Mahendra\NNP, Saya\PRP
+1310, 1328, Pakar\NN Hukum\NN Tata\NN Negara\NN Yusril\NNP Ihza\NNP Mahendra\NNP, Yusril\NNP
+1311, 1331, permintaan\NN Gubernur\NN DKI\NNP Jakarta\NNP Basuki\NN Tjahaja\NN Purnama\NN atau\CC Ahok\NNP, Ahok\NNP
+1331, 1337, Ahok\NNP, Dia\PRP
+1328, 1350, Yusril\NNP, saya,\PRP
+1328, 1359, Yusril\NNP, saya\PRP
+1331, 1361, Ahok\NNP, Pak\NNP Ahok,\NNP
+1328, 1362, Yusril\NNP, Yusril.\NNP
+1362, 1365, Yusril.\NNP, Yusril\NNP
+1365, 1368, Yusril\NNP, Dia\PRP
+1365, 1372, Yusril\NNP, dia,\PRP
+1361, 1375, Pak\NNP Ahok,\NNP, pemohon\NN atau\CC Ahok.\NNP
+1365, 1379, Yusril\NNP, Kami\PRP
+1365, 1383, Yusril\NNP, saya\PRP
+1365, 1396, Yusril\NNP, Yusril\NNP
+1361, 1397, Pak\NNP Ahok,\NNP, keinginan\NN Ahok.\NNP
+1361, 1399, Pak\NNP Ahok,\NNP, Ahok\NNP
+1396, 1403, Yusril\NNP, Saya\PRP
+1396, 1405, Yusril\NNP, kami\PRP
+1396, 1410, Yusril\NNP, Yusril.\NNP

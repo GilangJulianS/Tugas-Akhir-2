@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<sentence id="1">
+<phrase type="np" id="1" ne="TITLE|ORGANIZATION|OTHER">Ketua\NN Komisi\NN DPR,\NN</phrase><phrase type="np" id="2" ne="TITLE|PERSON">Teuku\NNP Riefky\NNP Harsya\NNP</phrase><phrase type="other">mengatakan\VBI</phrase><phrase type="np" id="3" ne="OTHER|ORGANIZATION">rencana\NN Kementerian\NN Pendidikan\NN dan\CC Kebudayaan\NN</phrase><phrase type="other">menambah\VBT</phrase><phrase type="np" id="4" ne="OTHER">waktu\NN siswa\NN</phrase><phrase type="other">di\IN</phrase><phrase type="np" id="5" ne="ORGANIZATION">sekolah\NN</phrase><phrase type="other">harus\MD dipandang\VBT sebagai\IN</phrase><phrase type="np" id="6" ne="OTHER">upaya\NN</phrase><phrase type="other">untuk\IN memajukan\VBT</phrase><phrase type="np" id="7" ne="OTHER">pendidikan\NN nasional.\JJ</phrase>
+</sentence>
+<sentence id="2">
+<phrase type="other">Namun,\CC</phrase><phrase type="np" id="8" ne="OTHER" coref="1">ia\PRP</phrase><phrase type="other">menekankan,\VBT ada\VBI</phrase><phrase type="np" id="9" ne="OTHER">beberapa\CDI hal\NN</phrase><phrase type="other">yang\SC harus\MD dicermati\VBT jika\SC</phrase><phrase type="np" id="10" ne="ORGANIZATION">Kemendikbud\NN</phrase><phrase type="other">akan\MD menerapkan\VBT</phrase><phrase type="np" id="11" ne="OTHER">wacana\NN tersebut.\DT</phrase>
+</sentence>
+<sentence id="3">
+<phrase type="other">"\" Pertama,\CDO harus\MD ada\VBI</phrase><phrase type="np" id="12" ne="OTHER">landasan\NN hukumnya.\NN</phrase><phrase type="np" id="13" ne="OTHER">Maksudnya\NNG</phrase><phrase type="other">adalah\VBT</phrase><phrase type="np" id="14" ne="TIME|OTHER">kebijakan\NN tersebut\DT</phrase><phrase type="other">harus\MD ditinjau\VBT apakah\WP tidak\NEG bertentangan\VBI dengan\IN</phrase><phrase type="np" id="15" ne="OTHER|THINGS">prinsip\NN penyelenggaraan\NN pendidikan\NN dan\CC standar\NN</phrase><phrase type="other">nasional\JJ</phrase><phrase type="np" id="16" ne="THINGS">pendidikan\NN</phrase><phrase type="other">dalam\IN undang\VBT -\- undang\VBT</phrase><phrase type="np" id="17" ne="PERSON">Sisdiknas\NNP</phrase><phrase type="other">atau\CC tidak,\NEG "\" kata\VBT</phrase><phrase type="np" id="18" ne="OTHER" coref="2">Riefky,\NNP</phrase><phrase type="other">melalui\VBT</phrase><phrase type="np" id="19" ne="OTHER">keterangan\NN</phrase><phrase type="other">tertulis,\VBI</phrase><phrase type="np" id="20" ne="TIME">Selasa\NN</phrase><phrase type="other">(\OP 9/8/2016\8 )\CP</phrase><phrase type="np" id="21" ne="OTHER">malam.\NN</phrase>
+</sentence>
+<sentence id="4">
+<phrase type="other">Menurut\VBT</phrase><phrase type="np" id="22" ne="OTHER" coref="18">dia,\PRP</phrase><phrase type="np" id="23" ne="OTHER">peserta\NN</phrase><phrase type="other">didik\VBT pada\IN</phrase><phrase type="np" id="24" ne="OTHER">jenjang\NN pendidikan\NN dasar\NN</phrase><phrase type="other">dan\CC menengah\VBT harus\MD didorong\VBT</phrase><phrase type="np" id="25" ne="TITLE">pengembangan\NN potensi\NN</phrase><phrase type="other">sesuai\RB</phrase><phrase type="np" id="26" ne="OTHER">kemampuannya.\NN</phrase>
+</sentence>
+<sentence id="5">
+<phrase type="other">Akan\MD tetapi,\CC</phrase><phrase type="np" id="27" ne="OTHER">upaya\NN ini\DT</phrase><phrase type="other">harus\MD pula\RB menjunjung\VBI tinggi\JJ</phrase><phrase type="np" id="28" ne="OTHER">hak\NN anak\NN</phrase><phrase type="other">di\IN luar\JJ</phrase><phrase type="np" id="29" ne="OTHER">pendidikan.\NN</phrase>
+</sentence>
+<sentence id="6">
+<phrase type="other">Kedua,\CDO</phrase><phrase type="np" id="30" ne="ORGANIZATION">Riefky\NNP</phrase><phrase type="other">mengatakan,\VBI</phrase><phrase type="np" id="31" ne="OTHER">proses\NN pembelajaran\NN</phrase><phrase type="other">di\IN</phrase><phrase type="np" id="32" ne="ORGANIZATION">sekolah\NN</phrase><phrase type="other">sudah\MD ditetapkan\VBT melalui\VBT</phrase><phrase type="np" id="33" ne="OTHER">standar\NN nasional\JJ</phrase><phrase type="np" id="34" ne="OTHER">pendidikan.\NN</phrase>
+</sentence>
+<sentence id="7">
+<phrase type="other">Dalam\IN</phrase><phrase type="np" id="35" ne="OTHER">proses\NN pembelajaran\NN itu\DT</phrase><phrase type="other">sudah\MD ditetapkan\VBT di\IN</phrase><phrase type="np" id="36" ne="OTHER">antaranya\NNG</phrase><phrase type="np" id="37" ne="OTHER|THINGS">alokasi\NN waktu\NN dan\CC rasio\NN jumlah\NN guru\NN</phrase><phrase type="other">dan\CC</phrase><phrase type="np" id="38" ne="THINGS">rombongan\NN</phrase><phrase type="other">belajar.\VBT</phrase>
+</sentence>
+<sentence id="8">
+<phrase type="other">"\"</phrase><phrase type="np" id="39" ne="EVENT">Tentunya\NN kebijakan\NN full\NN day\NN school\NN</phrase><phrase type="other">harus\MD memperhitungkan\VBT</phrase><phrase type="np" id="40" ne="OTHER|EVENT">penetapan\NN standar\NN pendidikan\NN</phrase><phrase type="other">yang\SC sudah\MD ada,\VBI karena\CC itu\DT merupakan\VBT</phrase><phrase type="np" id="41" ne="OTHER">kriteria\NN minimal\JJ</phrase><phrase type="np" id="42" ne="OTHER">penyelenggaran\NN pendidikan\NN</phrase><phrase type="other">di\IN</phrase><phrase type="np" id="43" ne="OTHER">Indonesia,\NNP</phrase><phrase type="other">"\"</phrase><phrase type="np" id="44" ne="OTHER">papar\NN Riefky.\NNP</phrase>
+</sentence>
+<sentence id="9">
+<phrase type="np" id="45" ne="OTHER">Ia\PRP</phrase><phrase type="other">mengatakan,\VBI masih\RB banyak\JJ</phrase><phrase type="np" id="46" ne="OTHER|LOCATION">pekerjaan\NN rumah\NN Kemendikbud\NN</phrase><phrase type="other">untuk\IN memenuhi\VBT</phrase><phrase type="np" id="47" ne="OTHER">standar\NN minimal\JJ</phrase><phrase type="other">tersebut.\DT</phrase>
+</sentence>
+<sentence id="10">
+<phrase type="np" id="48" ne="OTHER">Beberapa\CDI persoalan\NN</phrase><phrase type="other">yang\SC harus\MD dibenahi\VBT di\IN</phrase><phrase type="np" id="49" ne="OTHER">antaranya,\NNG</phrase><phrase type="np" id="50" ne="OTHER">ketersediaan\NN guru\NN</phrase><phrase type="other">yang\SC belum\NEG merata,\VBT</phrase><phrase type="np" id="51" ne="OTHER">ketersediaan\NN sarana\NN dan\CC prasarana,\NN</phrase><phrase type="other">yang\SC berkaitan\VBI dengan\IN</phrase><phrase type="np" id="52" ne="THINGS|OTHER">ketersediaan\NN anggaran.\NN</phrase>
+</sentence>
+<sentence id="11">
+<phrase type="other">"\"</phrase><phrase type="np" id="53" ne="ORGANIZATION">Komisi\NNP</phrase><phrase type="other">X\SYM tentunya\RB mendorong\VBT</phrase><phrase type="np" id="54" ne="OTHER|LOCATION">semua\CDI kebijakaan\NN Kemendikbud\NN</phrase><phrase type="other">yang\SC berupaya\VBI untuk\IN memajukan\VBT</phrase><phrase type="np" id="55" ne="OTHER">pendidikan\NN nasional.\JJ</phrase><phrase type="other">Hanya\RB saja\RB</phrase><phrase type="np" id="56" ne="OTHER">langkah\NN</phrase><phrase type="other">-\-</phrase><phrase type="np" id="57" ne="OTHER">langkah\NN tersebut\DT</phrase><phrase type="other">harus\MD diperhitungkan\VBT secara\IN matang\VBI termasuk\VBT membahasnya\VBT dengan\IN</phrase><phrase type="np" id="58" ne="ORGANIZATION|OTHER">Komisi\NN X,\NNP</phrase><phrase type="other">"\" lanjut\VBT</phrase><phrase type="np" id="59" ne="OTHER">Riefky.\NNP</phrase>
+</sentence>
+</data>

@@ -1,0 +1,90 @@
+- Tambahin definisi presisi, recall, sama F-measure di daftar istilah
+- Tambahin algoritma random forest, ilangin SVM
+- Ada kesalahan tag ex. saya->NN, nama orang->NN
+- Kurang banyak coreference menggunakan kata ganti pada data training, sebagian besar berita tentang perusahaan / ekonomi sehingga tidak banyak orang yang ada dalam berita
+- Cek coreference cuma kalo ada nnp / prp
+- Entity type diambil dari tag kata yg nnp / prp
+- Ekstrak label ga bisa pake cara biasa, harus dibuat dulu coref chainnya. Misal 1 3 5 10 coref, waktu 1 sama 10 dipasangin, 3 sama 5 bisa dipasangin tapi ngacu coref lewat 1.
+- Tambahin batasan masalah:
+	- Tidak dapat mendeteksi demonstrative pronoun
+	- Tidak dapat mendeteksi singkatan
+	- Hanya dapat menangani kasus proper name dan pronoun
+- Coba ilangin beberapa data:
+	- 1165-1415
+	- 1575-1652
+	- 1975-2244
+	- 2984-3045
+	- 3333-3379
+	- 3436-3569
+	- 3893-3975
+	- 4060-4103
+	- 4506-4549
+	- 6126-6305
+	- 6902-7020
+- Harus ada metode pengecekan chain, misalnya 1, 2, 3, 4. 1 dan 3 coref, 2 dan 4 coref. Harus ada metode / fitur yang menyatakan apakah diantara pasangan 2 dan 4 ada mention yang masuk ke coref chain lain sdb.
+- Kesalahan lain ada di ekstraksi fitur, banyak instance duplicate
+- Coba generate arff nya tambahin jaraknya, (sekarang 1 cuma sampe 23, ada yg beda idnya 100 masih corefer)
+- Coba benerin dulu label di test set
+- Belum bisa mendeteksi perbedaan semantik, misal: Freddy Budiman dengan pernyataan Freddy.
+- Ilangin data di test set:
+	- 426 - 514
+- 20% test set: 1916 - 2983
+- Batas pergantian topik test set:
+	72, 147, 214, 300, 352, 426, 552, 631, 722, 804, 841, 889, 957, 993, 1078, 1138, 1239, 1310
+=================================================
+
+- Contoh jelek lain:
+"Menurut blablabla sesuatu blablbla, katanya."
+"Menurutnya sesuatu blablabla, katanya"
+- Kata ganti digunakan terlalu jauh. Misal:
+Kalimat 1: Menkeu Sri mulyani mengatakan, ia blablabla.
+Kalimat 2: Menurut dia blablabla, katanya.
+Kalimat 3: "ballbalbalbal" katanya.
+Kalimat 4: "blablabla" lanjut dia, "blablabla", katanya.
+Kalimat 5: Ia blablabla.
+- Dalam bahasa Indonesia sulit untuk menentukan coreference terhadap plural noun phrase. Misalnya pada kalimat "pencuri masuk ke ladang gandum, mereka diduga sudah bersembunyi sejak malam hari." Kesulitan ada pada noun phrase "pencuri" tanpa modifier "seorang" / "para" sehingga sulit untuk menentukan apakah kata ganti "mereka" merupakan coreference dari "pencuri".
+- Pada corpus yang digunakan terdapat beberapa kalimat ambigu, misalnya:
+"Sutradara kelahiran Meksiko, Guillermo Del Toro telah bersedia menjadi sutradara film tersebut, tapi menarik diri bulan Juni dengan alasan rencana produksi sudah tertunda selama dua tahun.
+Jackson, yang merebut Oscar untuk sutradara terbaik atas karya nya Lord of the Rings : The Return of the King, diperkirakan akan menggantikan dia di kursi sutradara, meski belum ada pengumuman resmi mengenai pergantian tersebut."
+Pada kalimat tersebut terdapat kata "dia" yang mungkin mengacu pada Guillermo Del Toro, namun penggunaan kata "dia" di sini cukup ambigu karena "dia" lebih tepat digunakan untuk mengacu kepada Jackson.
+- Terdapat banyak kesalahan pada NE tagger
+- Hasil training awal menghasilkan akurasi yang sangat kecil, kemudian dilakukan perubahan pada pembangkitan instance negatif pada training set. Semula training set negatif dibangkitkan dengan melakukan pemasangan antar seluruh noun phrase yang berada di antara noun phrase yang corefer. Metode tersebut kemudian diubah menjadi membangkitkan instance negatif dengan memasangkan anaphor dengan seluruh noun phrase diantara anaphor dengan antecedent nya.
+- Split antecedent masih belum bisa ditangani karena sulitnya melakukan pendeteksian plural noun phrase, dan proses pembangkitan instance yang tidak dapat mendeteksi hubungan antar noun phrase.
+- Penanganan kasus antecedent yang merupakan anaphor, fitur2 yang dihasilkan kurang menunjukkan sifat coreference.
+- Hasil klasifikasi mungkin dapat mendeteksi coreference untuk "nya" namun permasalahan berada di proses parsing kalimat yang mungkin tidak bisa menghasilkan frase "nya".
+- Coba tambahin fitur kata sebelum dan sesudah / pos tag / ne tag.
+- Pengubahan fitur same entity type menjadi fitur entity type untuk masing-masing ekspresi.
+- Pada contoh kalimat di bawah:
+Dalam penjelasan nya ke Badan Pengawas Pasar Modal Bapepam, direksi Medco menjelaskan, pihak nya telah menandatangani nota kesepahaman perjanjian jual beli gas, dengan PLN, pada 21 Maret lalu.
+Dalam perjanjian tersebut, Medco akan memasok gas dalam kurun waktu 2008 - 2017, dengan total volume 133 miliar kaki kubik, dari lapangan Singa, Sumatera Selatan, ke fasilitas pembangkit listrik PLN di Jawa Barat.
+Perusahaan perkebunan PT Bakrie Sumatra Plantations Tbk UNSP di Jakarta, Jumat, menyatakan perolehan laba bersih tahun 2006, meningkat 49,41 persen menjadi 172,90 miliar, dibanding Rp 115,72 miliar tahun sebelum nya.
+Laporan keuangan konsolidasi tahunan perseroan, memperlihatkan pertumbuhan laba bersih yang signifikan tersebut didorong oleh penjualan bersih perseroan yang meningkat dari Rp 883,31 miliar pada tahun 2005 menjadi Rp 1,18 triliun pada tahun 2006.
+Keberhasilan perseroan mengendalikan biaya operasional melalui efisiensi membuahkan hasil laba usaha nya bertambah dari Rp 227,88 miliar pada tahun 2005 menjadi Rp 292,16 miliar pada tahun 2006 dan laba bersih per saham EPS - Earning Per Share perseroan naik dari Rp 50 menjadi Rp 74 .
+Menurut dia, keputusan untuk membayarkan dividen luar biasa 0,475 dollar AS per lembar saham ditetapkan setelah mempertimbangkan kinerja keuangan Perseroan tahun 2006 dan kondisi keuangan saat ini yang sangat baik.
+Ia mengatakan, pemegang saham Indonesia akan menerima dividen dalam rupiah yang nilai nya setara dengan dividen yang dibayarkan dalam dollar AS berdasarkan kurs tengah yang ditetapkan oleh Bank Indonesia pada tanggal 27 April 2007.
+- Terdapat banyak kata "dia" / "ia" yang bahkan pembaca pun sulit untuk menentukan siapa "dia" yang dimaksud.
+- Coba tambah fitur first instance + kata di sebelah. Jangan ditambah kata sebelah kalo awal / akhir kalimat.
+- Coba ilangin modifier "ini"/ "itu" / "tersebut"
+- Harus tau tentang nested noun phrase dan contohnya
+- Kasih tau tentang evaluasi model harus digunakan terhadap data dengan metode pembangkitan secara menyeluruh, jadi banyak model yg walaupun akurasinya tinggi tapi waktu dites hasilnya kurang bagus. sehingga akhirnya digunakan metode pembangkitan secara menyeluruh untuk data training.
+- 
+
+
+
+
+
+
+
+Daftar pertanyaan:
+- Laporan harus kaya gimana
+- Eksperimen ada batas minimal ga
+- Data yang dipake ternyata jelek buat coreference
+- Memungkinkan ga kalo dataset diganti, tapi harus ngelabelin ulang
+- Hasil TA yang "bisa diterima" itu yg seperti apa
+
+
+
+Hasil Bimbingan:
+- Coba cek hasil antara pake fitur sintaktik atau ga
+
+- minta test data mario
